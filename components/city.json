@@ -1,0 +1,6546 @@
+[
+    {
+      "values": "Bangued, Abra",
+      "label": "Bangued, Abra"
+    },
+    {
+      "values": "Boliney, Abra",
+      "label": "Boliney, Abra"
+    },
+    {
+      "values": "Bucay, Abra",
+      "label": "Bucay, Abra"
+    },
+    {
+      "values": "Bucloc, Abra",
+      "label": "Bucloc, Abra"
+    },
+    {
+      "values": "Daguioman, Abra",
+      "label": "Daguioman, Abra"
+    },
+    {
+      "values": "Danglas, Abra",
+      "label": "Danglas, Abra"
+    },
+    {
+      "values": "Dolores, Abra",
+      "label": "Dolores, Abra"
+    },
+    {
+      "values": "La Paz, Abra",
+      "label": "La Paz, Abra"
+    },
+    {
+      "values": "Lacub, Abra",
+      "label": "Lacub, Abra"
+    },
+    {
+      "values": "Lagangilang, Abra",
+      "label": "Lagangilang, Abra"
+    },
+    {
+      "values": "Lagayan, Abra",
+      "label": "Lagayan, Abra"
+    },
+    {
+      "values": "Langiden, Abra",
+      "label": "Langiden, Abra"
+    },
+    {
+      "values": "Licuan-Baay, Abra",
+      "label": "Licuan-Baay, Abra"
+    },
+    {
+      "values": "Luba, Abra",
+      "label": "Luba, Abra"
+    },
+    {
+      "values": "Malibcong, Abra",
+      "label": "Malibcong, Abra"
+    },
+    {
+      "values": "Manabo, Abra",
+      "label": "Manabo, Abra"
+    },
+    {
+      "values": "Peñarrubia, Abra",
+      "label": "Peñarrubia, Abra"
+    },
+    {
+      "values": "Pidigan, Abra",
+      "label": "Pidigan, Abra"
+    },
+    {
+      "values": "Pilar, Abra",
+      "label": "Pilar, Abra"
+    },
+    {
+      "values": "Sallapadan, Abra",
+      "label": "Sallapadan, Abra"
+    },
+    {
+      "values": "San Isidro, Abra",
+      "label": "San Isidro, Abra"
+    },
+    {
+      "values": "San Juan, Abra",
+      "label": "San Juan, Abra"
+    },
+    {
+      "values": "San Quintin, Abra",
+      "label": "San Quintin, Abra"
+    },
+    {
+      "values": "Tayum, Abra",
+      "label": "Tayum, Abra"
+    },
+    {
+      "values": "Tineg, Abra",
+      "label": "Tineg, Abra"
+    },
+    {
+      "values": "Tubo, Abra",
+      "label": "Tubo, Abra"
+    },
+    {
+      "values": "Villaviciosa, Abra",
+      "label": "Villaviciosa, Abra"
+    },
+    {
+      "values": "Butuan City, Agusan del Norte",
+      "label": "Butuan City, Agusan del Norte"
+    },
+    {
+      "values": "Buenavista, Agusan del Norte",
+      "label": "Buenavista, Agusan del Norte"
+    },
+    {
+      "values": "Cabadbaran, Agusan del Norte",
+      "label": "Cabadbaran, Agusan del Norte"
+    },
+    {
+      "values": "Carmen, Agusan del Norte",
+      "label": "Carmen, Agusan del Norte"
+    },
+    {
+      "values": "Jabonga, Agusan del Norte",
+      "label": "Jabonga, Agusan del Norte"
+    },
+    {
+      "values": "Kitcharao, Agusan del Norte",
+      "label": "Kitcharao, Agusan del Norte"
+    },
+    {
+      "values": "Las Nieves, Agusan del Norte",
+      "label": "Las Nieves, Agusan del Norte"
+    },
+    {
+      "values": "Magallanes, Agusan del Norte",
+      "label": "Magallanes, Agusan del Norte"
+    },
+    {
+      "values": "Nasipit, Agusan del Norte",
+      "label": "Nasipit, Agusan del Norte"
+    },
+    {
+      "values": "Remedios T. Romualdez, Agusan del Norte",
+      "label": "Remedios T. Romualdez, Agusan del Norte"
+    },
+    {
+      "values": "Santiago, Agusan del Norte",
+      "label": "Santiago, Agusan del Norte"
+    },
+    {
+      "values": "Tubay, Agusan del Norte",
+      "label": "Tubay, Agusan del Norte"
+    },
+    {
+      "values": "Bayugan, Agusan del Sur",
+      "label": "Bayugan, Agusan del Sur"
+    },
+    {
+      "values": "Bunawan, Agusan del Sur",
+      "label": "Bunawan, Agusan del Sur"
+    },
+    {
+      "values": "Esperanza, Agusan del Sur",
+      "label": "Esperanza, Agusan del Sur"
+    },
+    {
+      "values": "La Paz, Agusan del Sur",
+      "label": "La Paz, Agusan del Sur"
+    },
+    {
+      "values": "Loreto, Agusan del Sur",
+      "label": "Loreto, Agusan del Sur"
+    },
+    {
+      "values": "Prosperidad, Agusan del Sur",
+      "label": "Prosperidad, Agusan del Sur"
+    },
+    {
+      "values": "Rosario, Agusan del Sur",
+      "label": "Rosario, Agusan del Sur"
+    },
+    {
+      "values": "San Francisco, Agusan del Sur",
+      "label": "San Francisco, Agusan del Sur"
+    },
+    {
+      "values": "San Luis, Agusan del Sur",
+      "label": "San Luis, Agusan del Sur"
+    },
+    {
+      "values": "Santa Josefa, Agusan del Sur",
+      "label": "Santa Josefa, Agusan del Sur"
+    },
+    {
+      "values": "Sibagat, Agusan del Sur",
+      "label": "Sibagat, Agusan del Sur"
+    },
+    {
+      "values": "Talacogon, Agusan del Sur",
+      "label": "Talacogon, Agusan del Sur"
+    },
+    {
+      "values": "Trento, Agusan del Sur",
+      "label": "Trento, Agusan del Sur"
+    },
+    {
+      "values": "Veruela, Agusan del Sur",
+      "label": "Veruela, Agusan del Sur"
+    },
+    {
+      "values": "Altavas, Aklan",
+      "label": "Altavas, Aklan"
+    },
+    {
+      "values": "Balete, Aklan",
+      "label": "Balete, Aklan"
+    },
+    {
+      "values": "Banga, Aklan",
+      "label": "Banga, Aklan"
+    },
+    {
+      "values": "Batan, Aklan",
+      "label": "Batan, Aklan"
+    },
+    {
+      "values": "Buruanga, Aklan",
+      "label": "Buruanga, Aklan"
+    },
+    {
+      "values": "Ibajay, Aklan",
+      "label": "Ibajay, Aklan"
+    },
+    {
+      "values": "Kalibo, Aklan",
+      "label": "Kalibo, Aklan"
+    },
+    {
+      "values": "Lezo, Aklan",
+      "label": "Lezo, Aklan"
+    },
+    {
+      "values": "Libacao, Aklan",
+      "label": "Libacao, Aklan"
+    },
+    {
+      "values": "Madalag, Aklan",
+      "label": "Madalag, Aklan"
+    },
+    {
+      "values": "Makato, Aklan",
+      "label": "Makato, Aklan"
+    },
+    {
+      "values": "Malay, Aklan",
+      "label": "Malay, Aklan"
+    },
+    {
+      "values": "Malinao, Aklan",
+      "label": "Malinao, Aklan"
+    },
+    {
+      "values": "Nabas, Aklan",
+      "label": "Nabas, Aklan"
+    },
+    {
+      "values": "New Washington, Aklan",
+      "label": "New Washington, Aklan"
+    },
+    {
+      "values": "Numancia, Aklan",
+      "label": "Numancia, Aklan"
+    },
+    {
+      "values": "Tangalan, Aklan",
+      "label": "Tangalan, Aklan"
+    },
+    {
+      "values": "Legazpi City, Albay",
+      "label": "Legazpi City, Albay"
+    },
+    {
+      "values": "Ligao City, Albay",
+      "label": "Ligao City, Albay"
+    },
+    {
+      "values": "Tabaco City, Albay",
+      "label": "Tabaco City, Albay"
+    },
+    {
+      "values": "Bacacay, Albay",
+      "label": "Bacacay, Albay"
+    },
+    {
+      "values": "Camalig, Albay",
+      "label": "Camalig, Albay"
+    },
+    {
+      "values": "Daraga, Albay",
+      "label": "Daraga, Albay"
+    },
+    {
+      "values": "Guinobatan, Albay",
+      "label": "Guinobatan, Albay"
+    },
+    {
+      "values": "Jovellar, Albay",
+      "label": "Jovellar, Albay"
+    },
+    {
+      "values": "Libon, Albay",
+      "label": "Libon, Albay"
+    },
+    {
+      "values": "Malilipot, Albay",
+      "label": "Malilipot, Albay"
+    },
+    {
+      "values": "Malinao, Albay",
+      "label": "Malinao, Albay"
+    },
+    {
+      "values": "Manito, Albay",
+      "label": "Manito, Albay"
+    },
+    {
+      "values": "Oas, Albay",
+      "label": "Oas, Albay"
+    },
+    {
+      "values": "Pio Duran, Albay",
+      "label": "Pio Duran, Albay"
+    },
+    {
+      "values": "Polangui, Albay",
+      "label": "Polangui, Albay"
+    },
+    {
+      "values": "Rapu-Rapu, Albay",
+      "label": "Rapu-Rapu, Albay"
+    },
+    {
+      "values": "Santo Domingo, Albay",
+      "label": "Santo Domingo, Albay"
+    },
+    {
+      "values": "Tiwi, Albay",
+      "label": "Tiwi, Albay"
+    },
+    {
+      "values": "Anini-y, Antique",
+      "label": "Anini-y, Antique"
+    },
+    {
+      "values": "Barbaza, Antique",
+      "label": "Barbaza, Antique"
+    },
+    {
+      "values": "Belison, Antique",
+      "label": "Belison, Antique"
+    },
+    {
+      "values": "Bugasong, Antique",
+      "label": "Bugasong, Antique"
+    },
+    {
+      "values": "Caluya, Antique",
+      "label": "Caluya, Antique"
+    },
+    {
+      "values": "Culasi, Antique",
+      "label": "Culasi, Antique"
+    },
+    {
+      "values": "Hamtic, Antique",
+      "label": "Hamtic, Antique"
+    },
+    {
+      "values": "Laua-an, Antique",
+      "label": "Laua-an, Antique"
+    },
+    {
+      "values": "Libertad, Antique",
+      "label": "Libertad, Antique"
+    },
+    {
+      "values": "Pandan, Antique",
+      "label": "Pandan, Antique"
+    },
+    {
+      "values": "Patnongon, Antique",
+      "label": "Patnongon, Antique"
+    },
+    {
+      "values": "San Jose, Antique",
+      "label": "San Jose, Antique"
+    },
+    {
+      "values": "San Remigio, Antique",
+      "label": "San Remigio, Antique"
+    },
+    {
+      "values": "Sebaste, Antique",
+      "label": "Sebaste, Antique"
+    },
+    {
+      "values": "Sibalom, Antique",
+      "label": "Sibalom, Antique"
+    },
+    {
+      "values": "Tibiao, Antique",
+      "label": "Tibiao, Antique"
+    },
+    {
+      "values": "Tobias Fornier, Antique",
+      "label": "Tobias Fornier, Antique"
+    },
+    {
+      "values": "Valderrama, Antique",
+      "label": "Valderrama, Antique"
+    },
+    {
+      "values": "Calanasan, Apayao",
+      "label": "Calanasan, Apayao"
+    },
+    {
+      "values": "Conner, Apayao",
+      "label": "Conner, Apayao"
+    },
+    {
+      "values": "Flora, Apayao",
+      "label": "Flora, Apayao"
+    },
+    {
+      "values": "Kabugao, Apayao",
+      "label": "Kabugao, Apayao"
+    },
+    {
+      "values": "Luna, Apayao",
+      "label": "Luna, Apayao"
+    },
+    {
+      "values": "Pudtol, Apayao",
+      "label": "Pudtol, Apayao"
+    },
+    {
+      "values": "Santa Marcela, Apayao",
+      "label": "Santa Marcela, Apayao"
+    },
+    {
+      "values": "Baler, Aurora",
+      "label": "Baler, Aurora"
+    },
+    {
+      "values": "Casiguran, Aurora",
+      "label": "Casiguran, Aurora"
+    },
+    {
+      "values": "Dilasag, Aurora",
+      "label": "Dilasag, Aurora"
+    },
+    {
+      "values": "Dinalungan, Aurora",
+      "label": "Dinalungan, Aurora"
+    },
+    {
+      "values": "Dingalan, Aurora",
+      "label": "Dingalan, Aurora"
+    },
+    {
+      "values": "Dipaculao, Aurora",
+      "label": "Dipaculao, Aurora"
+    },
+    {
+      "values": "Maria Aurora, Aurora",
+      "label": "Maria Aurora, Aurora"
+    },
+    {
+      "values": "San Luis, Aurora",
+      "label": "San Luis, Aurora"
+    },
+    {
+      "values": "Isabela City, Basilan",
+      "label": "Isabela City, Basilan"
+    },
+    {
+      "values": "Akbar, Basilan",
+      "label": "Akbar, Basilan"
+    },
+    {
+      "values": "Al-Barka, Basilan",
+      "label": "Al-Barka, Basilan"
+    },
+    {
+      "values": "Hadji Mohammad Ajul, Basilan",
+      "label": "Hadji Mohammad Ajul, Basilan"
+    },
+    {
+      "values": "Hadji Muhtamad, Basilan",
+      "label": "Hadji Muhtamad, Basilan"
+    },
+    {
+      "values": "Lamitan, Basilan",
+      "label": "Lamitan, Basilan"
+    },
+    {
+      "values": "Lantawan, Basilan",
+      "label": "Lantawan, Basilan"
+    },
+    {
+      "values": "Maluso, Basilan",
+      "label": "Maluso, Basilan"
+    },
+    {
+      "values": "Sumisip, Basilan",
+      "label": "Sumisip, Basilan"
+    },
+    {
+      "values": "Tabuan-Lasa, Basilan",
+      "label": "Tabuan-Lasa, Basilan"
+    },
+    {
+      "values": "Tipo-Tipo, Basilan",
+      "label": "Tipo-Tipo, Basilan"
+    },
+    {
+      "values": "Tuburan, Basilan",
+      "label": "Tuburan, Basilan"
+    },
+    {
+      "values": "Ungkaya Pukan, Basilan",
+      "label": "Ungkaya Pukan, Basilan"
+    },
+    {
+      "values": "Balanga City, Bataan",
+      "label": "Balanga City, Bataan"
+    },
+    {
+      "values": "Abucay, Bataan",
+      "label": "Abucay, Bataan"
+    },
+    {
+      "values": "Bagac, Bataan",
+      "label": "Bagac, Bataan"
+    },
+    {
+      "values": "Dinalupihan, Bataan",
+      "label": "Dinalupihan, Bataan"
+    },
+    {
+      "values": "Hermosa, Bataan",
+      "label": "Hermosa, Bataan"
+    },
+    {
+      "values": "Limay, Bataan",
+      "label": "Limay, Bataan"
+    },
+    {
+      "values": "Mariveles, Bataan",
+      "label": "Mariveles, Bataan"
+    },
+    {
+      "values": "Morong, Bataan",
+      "label": "Morong, Bataan"
+    },
+    {
+      "values": "Orani, Bataan",
+      "label": "Orani, Bataan"
+    },
+    {
+      "values": "Orion, Bataan",
+      "label": "Orion, Bataan"
+    },
+    {
+      "values": "Pilar, Bataan",
+      "label": "Pilar, Bataan"
+    },
+    {
+      "values": "Samal, Bataan",
+      "label": "Samal, Bataan"
+    },
+    {
+      "values": "Basco, Batanes",
+      "label": "Basco, Batanes"
+    },
+    {
+      "values": "Itbayat, Batanes",
+      "label": "Itbayat, Batanes"
+    },
+    {
+      "values": "Ivana, Batanes",
+      "label": "Ivana, Batanes"
+    },
+    {
+      "values": "Mahatao, Batanes",
+      "label": "Mahatao, Batanes"
+    },
+    {
+      "values": "Sabtang, Batanes",
+      "label": "Sabtang, Batanes"
+    },
+    {
+      "values": "Uyugan, Batanes",
+      "label": "Uyugan, Batanes"
+    },
+    {
+      "values": "Batangas City, Batangas",
+      "label": "Batangas City, Batangas"
+    },
+    {
+      "values": "Lipa City, Batangas",
+      "label": "Lipa City, Batangas"
+    },
+    {
+      "values": "Tanauan City, Batangas",
+      "label": "Tanauan City, Batangas"
+    },
+    {
+      "values": "Agoncillo, Batangas",
+      "label": "Agoncillo, Batangas"
+    },
+    {
+      "values": "Alitagtag, Batangas",
+      "label": "Alitagtag, Batangas"
+    },
+    {
+      "values": "Balayan, Batangas",
+      "label": "Balayan, Batangas"
+    },
+    {
+      "values": "Balete, Batangas",
+      "label": "Balete, Batangas"
+    },
+    {
+      "values": "Bauan, Batangas",
+      "label": "Bauan, Batangas"
+    },
+    {
+      "values": "Calaca, Batangas",
+      "label": "Calaca, Batangas"
+    },
+    {
+      "values": "Calatagan, Batangas",
+      "label": "Calatagan, Batangas"
+    },
+    {
+      "values": "Cuenca, Batangas",
+      "label": "Cuenca, Batangas"
+    },
+    {
+      "values": "Ibaan, Batangas",
+      "label": "Ibaan, Batangas"
+    },
+    {
+      "values": "Laurel, Batangas",
+      "label": "Laurel, Batangas"
+    },
+    {
+      "values": "Lemery, Batangas",
+      "label": "Lemery, Batangas"
+    },
+    {
+      "values": "Lian, Batangas",
+      "label": "Lian, Batangas"
+    },
+    {
+      "values": "Lobo, Batangas",
+      "label": "Lobo, Batangas"
+    },
+    {
+      "values": "Mabini, Batangas",
+      "label": "Mabini, Batangas"
+    },
+    {
+      "values": "Malvar, Batangas",
+      "label": "Malvar, Batangas"
+    },
+    {
+      "values": "Mataas na Kahoy, Batangas",
+      "label": "Mataas na Kahoy, Batangas"
+    },
+    {
+      "values": "Nasugbu, Batangas",
+      "label": "Nasugbu, Batangas"
+    },
+    {
+      "values": "Padre Garcia, Batangas",
+      "label": "Padre Garcia, Batangas"
+    },
+    {
+      "values": "Rosario, Batangas",
+      "label": "Rosario, Batangas"
+    },
+    {
+      "values": "San Jose, Batangas",
+      "label": "San Jose, Batangas"
+    },
+    {
+      "values": "San Juan, Batangas",
+      "label": "San Juan, Batangas"
+    },
+    {
+      "values": "San Luis, Batangas",
+      "label": "San Luis, Batangas"
+    },
+    {
+      "values": "San Nicolas, Batangas",
+      "label": "San Nicolas, Batangas"
+    },
+    {
+      "values": "San Pascual, Batangas",
+      "label": "San Pascual, Batangas"
+    },
+    {
+      "values": "Santa Teresita, Batangas",
+      "label": "Santa Teresita, Batangas"
+    },
+    {
+      "values": "Santo Tomas, Batangas",
+      "label": "Santo Tomas, Batangas"
+    },
+    {
+      "values": "Taal, Batangas",
+      "label": "Taal, Batangas"
+    },
+    {
+      "values": "Talisay, Batangas",
+      "label": "Talisay, Batangas"
+    },
+    {
+      "values": "Taysan, Batangas",
+      "label": "Taysan, Batangas"
+    },
+    {
+      "values": "Tingloy, Batangas",
+      "label": "Tingloy, Batangas"
+    },
+    {
+      "values": "Tuy, Batangas",
+      "label": "Tuy, Batangas"
+    },
+    {
+      "values": "Baguio City, Benguet",
+      "label": "Baguio City, Benguet"
+    },
+    {
+      "values": "Atok, Benguet",
+      "label": "Atok, Benguet"
+    },
+    {
+      "values": "Bakun, Benguet",
+      "label": "Bakun, Benguet"
+    },
+    {
+      "values": "Bokod, Benguet",
+      "label": "Bokod, Benguet"
+    },
+    {
+      "values": "Buguias, Benguet",
+      "label": "Buguias, Benguet"
+    },
+    {
+      "values": "Itogon, Benguet",
+      "label": "Itogon, Benguet"
+    },
+    {
+      "values": "Kabayan, Benguet",
+      "label": "Kabayan, Benguet"
+    },
+    {
+      "values": "Kapangan, Benguet",
+      "label": "Kapangan, Benguet"
+    },
+    {
+      "values": "Kibungan, Benguet",
+      "label": "Kibungan, Benguet"
+    },
+    {
+      "values": "La Trinidad, Benguet",
+      "label": "La Trinidad, Benguet"
+    },
+    {
+      "values": "Mankayan, Benguet",
+      "label": "Mankayan, Benguet"
+    },
+    {
+      "values": "Sablan, Benguet",
+      "label": "Sablan, Benguet"
+    },
+    {
+      "values": "Tuba, Benguet",
+      "label": "Tuba, Benguet"
+    },
+    {
+      "values": "Tublay, Benguet",
+      "label": "Tublay, Benguet"
+    },
+    {
+      "values": "Almeria, Biliran",
+      "label": "Almeria, Biliran"
+    },
+    {
+      "values": "Biliran, Biliran",
+      "label": "Biliran, Biliran"
+    },
+    {
+      "values": "Cabucgayan, Biliran",
+      "label": "Cabucgayan, Biliran"
+    },
+    {
+      "values": "Caibiran, Biliran",
+      "label": "Caibiran, Biliran"
+    },
+    {
+      "values": "Culaba, Biliran",
+      "label": "Culaba, Biliran"
+    },
+    {
+      "values": "Kawayan, Biliran",
+      "label": "Kawayan, Biliran"
+    },
+    {
+      "values": "Maripipi, Biliran",
+      "label": "Maripipi, Biliran"
+    },
+    {
+      "values": "Naval, Biliran",
+      "label": "Naval, Biliran"
+    },
+    {
+      "values": "Tagbilaran City, Bohol",
+      "label": "Tagbilaran City, Bohol"
+    },
+    {
+      "values": "Alburquerque, Bohol",
+      "label": "Alburquerque, Bohol"
+    },
+    {
+      "values": "Alicia, Bohol",
+      "label": "Alicia, Bohol"
+    },
+    {
+      "values": "Anda, Bohol",
+      "label": "Anda, Bohol"
+    },
+    {
+      "values": "Antequera, Bohol",
+      "label": "Antequera, Bohol"
+    },
+    {
+      "values": "Baclayon, Bohol",
+      "label": "Baclayon, Bohol"
+    },
+    {
+      "values": "Balilihan, Bohol",
+      "label": "Balilihan, Bohol"
+    },
+    {
+      "values": "Batuan, Bohol",
+      "label": "Batuan, Bohol"
+    },
+    {
+      "values": "Bien Unido, Bohol",
+      "label": "Bien Unido, Bohol"
+    },
+    {
+      "values": "Bilar, Bohol",
+      "label": "Bilar, Bohol"
+    },
+    {
+      "values": "Buenavista, Bohol",
+      "label": "Buenavista, Bohol"
+    },
+    {
+      "values": "Calape, Bohol",
+      "label": "Calape, Bohol"
+    },
+    {
+      "values": "Candijay, Bohol",
+      "label": "Candijay, Bohol"
+    },
+    {
+      "values": "Carmen, Bohol",
+      "label": "Carmen, Bohol"
+    },
+    {
+      "values": "Catigbian, Bohol",
+      "label": "Catigbian, Bohol"
+    },
+    {
+      "values": "Clarin, Bohol",
+      "label": "Clarin, Bohol"
+    },
+    {
+      "values": "Corella, Bohol",
+      "label": "Corella, Bohol"
+    },
+    {
+      "values": "Cortes, Bohol",
+      "label": "Cortes, Bohol"
+    },
+    {
+      "values": "Dagohoy, Bohol",
+      "label": "Dagohoy, Bohol"
+    },
+    {
+      "values": "Danao, Bohol",
+      "label": "Danao, Bohol"
+    },
+    {
+      "values": "Dauis, Bohol",
+      "label": "Dauis, Bohol"
+    },
+    {
+      "values": "Dimiao, Bohol",
+      "label": "Dimiao, Bohol"
+    },
+    {
+      "values": "Duero, Bohol",
+      "label": "Duero, Bohol"
+    },
+    {
+      "values": "Garcia Hernandez, Bohol",
+      "label": "Garcia Hernandez, Bohol"
+    },
+    {
+      "values": "Getafe, Bohol",
+      "label": "Getafe, Bohol"
+    },
+    {
+      "values": "Guindulman, Bohol",
+      "label": "Guindulman, Bohol"
+    },
+    {
+      "values": "Inabanga, Bohol",
+      "label": "Inabanga, Bohol"
+    },
+    {
+      "values": "Jagna, Bohol",
+      "label": "Jagna, Bohol"
+    },
+    {
+      "values": "Lila, Bohol",
+      "label": "Lila, Bohol"
+    },
+    {
+      "values": "Loay, Bohol",
+      "label": "Loay, Bohol"
+    },
+    {
+      "values": "Loboc, Bohol",
+      "label": "Loboc, Bohol"
+    },
+    {
+      "values": "Loon, Bohol",
+      "label": "Loon, Bohol"
+    },
+    {
+      "values": "Mabini, Bohol",
+      "label": "Mabini, Bohol"
+    },
+    {
+      "values": "Maribojoc, Bohol",
+      "label": "Maribojoc, Bohol"
+    },
+    {
+      "values": "Panglao, Bohol",
+      "label": "Panglao, Bohol"
+    },
+    {
+      "values": "Pilar, Bohol",
+      "label": "Pilar, Bohol"
+    },
+    {
+      "values": "President Carlos P. Garcia, Bohol",
+      "label": "President Carlos P. Garcia, Bohol"
+    },
+    {
+      "values": "Sagbayan, Bohol",
+      "label": "Sagbayan, Bohol"
+    },
+    {
+      "values": "San Isidro, Bohol",
+      "label": "San Isidro, Bohol"
+    },
+    {
+      "values": "San Miguel, Bohol",
+      "label": "San Miguel, Bohol"
+    },
+    {
+      "values": "Sevilla, Bohol",
+      "label": "Sevilla, Bohol"
+    },
+    {
+      "values": "Sierra Bullones, Bohol",
+      "label": "Sierra Bullones, Bohol"
+    },
+    {
+      "values": "Sikatuna, Bohol",
+      "label": "Sikatuna, Bohol"
+    },
+    {
+      "values": "Talibon, Bohol",
+      "label": "Talibon, Bohol"
+    },
+    {
+      "values": "Trinidad, Bohol",
+      "label": "Trinidad, Bohol"
+    },
+    {
+      "values": "Tubigon, Bohol",
+      "label": "Tubigon, Bohol"
+    },
+    {
+      "values": "Ubay, Bohol",
+      "label": "Ubay, Bohol"
+    },
+    {
+      "values": "Valencia, Bohol",
+      "label": "Valencia, Bohol"
+    },
+    {
+      "values": "Malaybalay City, Bukidnon",
+      "label": "Malaybalay City, Bukidnon"
+    },
+    {
+      "values": "Valencia City, Bukidnon",
+      "label": "Valencia City, Bukidnon"
+    },
+    {
+      "values": "Baungon, Bukidnon",
+      "label": "Baungon, Bukidnon"
+    },
+    {
+      "values": "Cabanglasan, Bukidnon",
+      "label": "Cabanglasan, Bukidnon"
+    },
+    {
+      "values": "Damulog, Bukidnon",
+      "label": "Damulog, Bukidnon"
+    },
+    {
+      "values": "Dangcagan, Bukidnon",
+      "label": "Dangcagan, Bukidnon"
+    },
+    {
+      "values": "Don Carlos, Bukidnon",
+      "label": "Don Carlos, Bukidnon"
+    },
+    {
+      "values": "Impasug-ong, Bukidnon",
+      "label": "Impasug-ong, Bukidnon"
+    },
+    {
+      "values": "Kadingilan, Bukidnon",
+      "label": "Kadingilan, Bukidnon"
+    },
+    {
+      "values": "Kalilangan, Bukidnon",
+      "label": "Kalilangan, Bukidnon"
+    },
+    {
+      "values": "Kibawe, Bukidnon",
+      "label": "Kibawe, Bukidnon"
+    },
+    {
+      "values": "Kitaotao, Bukidnon",
+      "label": "Kitaotao, Bukidnon"
+    },
+    {
+      "values": "Lantapan, Bukidnon",
+      "label": "Lantapan, Bukidnon"
+    },
+    {
+      "values": "Libona, Bukidnon",
+      "label": "Libona, Bukidnon"
+    },
+    {
+      "values": "Malitbog, Bukidnon",
+      "label": "Malitbog, Bukidnon"
+    },
+    {
+      "values": "Manolo Fortich, Bukidnon",
+      "label": "Manolo Fortich, Bukidnon"
+    },
+    {
+      "values": "Maramag, Bukidnon",
+      "label": "Maramag, Bukidnon"
+    },
+    {
+      "values": "Pangantucan, Bukidnon",
+      "label": "Pangantucan, Bukidnon"
+    },
+    {
+      "values": "Quezon, Bukidnon",
+      "label": "Quezon, Bukidnon"
+    },
+    {
+      "values": "San Fernando, Bukidnon",
+      "label": "San Fernando, Bukidnon"
+    },
+    {
+      "values": "Sumilao, Bukidnon",
+      "label": "Sumilao, Bukidnon"
+    },
+    {
+      "values": "Talakag, Bukidnon",
+      "label": "Talakag, Bukidnon"
+    },
+    {
+      "values": "Malolos City, Bulacan",
+      "label": "Malolos City, Bulacan"
+    },
+    {
+      "values": "Meycauayan City, Bulacan",
+      "label": "Meycauayan City, Bulacan"
+    },
+    {
+      "values": "San Jose del Monte City, Bulacan",
+      "label": "San Jose del Monte City, Bulacan"
+    },
+    {
+      "values": "Angat, Bulacan",
+      "label": "Angat, Bulacan"
+    },
+    {
+      "values": "Balagtas, Bulacan",
+      "label": "Balagtas, Bulacan"
+    },
+    {
+      "values": "Baliuag, Bulacan",
+      "label": "Baliuag, Bulacan"
+    },
+    {
+      "values": "Bocaue, Bulacan",
+      "label": "Bocaue, Bulacan"
+    },
+    {
+      "values": "Bulacan, Bulacan",
+      "label": "Bulacan, Bulacan"
+    },
+    {
+      "values": "Bustos, Bulacan",
+      "label": "Bustos, Bulacan"
+    },
+    {
+      "values": "Calumpit, Bulacan",
+      "label": "Calumpit, Bulacan"
+    },
+    {
+      "values": "Doña Remedios Trinidad, Bulacan",
+      "label": "Doña Remedios Trinidad, Bulacan"
+    },
+    {
+      "values": "Guiguinto, Bulacan",
+      "label": "Guiguinto, Bulacan"
+    },
+    {
+      "values": "Hagonoy, Bulacan",
+      "label": "Hagonoy, Bulacan"
+    },
+    {
+      "values": "Marilao, Bulacan",
+      "label": "Marilao, Bulacan"
+    },
+    {
+      "values": "Norzagaray, Bulacan",
+      "label": "Norzagaray, Bulacan"
+    },
+    {
+      "values": "Obando, Bulacan",
+      "label": "Obando, Bulacan"
+    },
+    {
+      "values": "Pandi, Bulacan",
+      "label": "Pandi, Bulacan"
+    },
+    {
+      "values": "Paombong, Bulacan",
+      "label": "Paombong, Bulacan"
+    },
+    {
+      "values": "Plaridel, Bulacan",
+      "label": "Plaridel, Bulacan"
+    },
+    {
+      "values": "Pulilan, Bulacan",
+      "label": "Pulilan, Bulacan"
+    },
+    {
+      "values": "San Ildefonso, Bulacan",
+      "label": "San Ildefonso, Bulacan"
+    },
+    {
+      "values": "San Miguel, Bulacan",
+      "label": "San Miguel, Bulacan"
+    },
+    {
+      "values": "San Rafael, Bulacan",
+      "label": "San Rafael, Bulacan"
+    },
+    {
+      "values": "Santa Maria, Bulacan",
+      "label": "Santa Maria, Bulacan"
+    },
+    {
+      "values": "Tuguegarao City, Cagayan",
+      "label": "Tuguegarao City, Cagayan"
+    },
+    {
+      "values": "Abulug, Cagayan",
+      "label": "Abulug, Cagayan"
+    },
+    {
+      "values": "Alcala, Cagayan",
+      "label": "Alcala, Cagayan"
+    },
+    {
+      "values": "Allacapan, Cagayan",
+      "label": "Allacapan, Cagayan"
+    },
+    {
+      "values": "Amulung, Cagayan",
+      "label": "Amulung, Cagayan"
+    },
+    {
+      "values": "Aparri, Cagayan",
+      "label": "Aparri, Cagayan"
+    },
+    {
+      "values": "Baggao, Cagayan",
+      "label": "Baggao, Cagayan"
+    },
+    {
+      "values": "Ballesteros, Cagayan",
+      "label": "Ballesteros, Cagayan"
+    },
+    {
+      "values": "Buguey, Cagayan",
+      "label": "Buguey, Cagayan"
+    },
+    {
+      "values": "Calayan, Cagayan",
+      "label": "Calayan, Cagayan"
+    },
+    {
+      "values": "Camalaniugan, Cagayan",
+      "label": "Camalaniugan, Cagayan"
+    },
+    {
+      "values": "Claveria, Cagayan",
+      "label": "Claveria, Cagayan"
+    },
+    {
+      "values": "Enrile, Cagayan",
+      "label": "Enrile, Cagayan"
+    },
+    {
+      "values": "Gattaran, Cagayan",
+      "label": "Gattaran, Cagayan"
+    },
+    {
+      "values": "Gonzaga, Cagayan",
+      "label": "Gonzaga, Cagayan"
+    },
+    {
+      "values": "Iguig, Cagayan",
+      "label": "Iguig, Cagayan"
+    },
+    {
+      "values": "Lal-lo, Cagayan",
+      "label": "Lal-lo, Cagayan"
+    },
+    {
+      "values": "Lasam, Cagayan",
+      "label": "Lasam, Cagayan"
+    },
+    {
+      "values": "Pamplona, Cagayan",
+      "label": "Pamplona, Cagayan"
+    },
+    {
+      "values": "Peñablanca, Cagayan",
+      "label": "Peñablanca, Cagayan"
+    },
+    {
+      "values": "Piat, Cagayan",
+      "label": "Piat, Cagayan"
+    },
+    {
+      "values": "Rizal, Cagayan",
+      "label": "Rizal, Cagayan"
+    },
+    {
+      "values": "Sanchez-Mira, Cagayan",
+      "label": "Sanchez-Mira, Cagayan"
+    },
+    {
+      "values": "Santa Ana, Cagayan",
+      "label": "Santa Ana, Cagayan"
+    },
+    {
+      "values": "Santa Praxedes, Cagayan",
+      "label": "Santa Praxedes, Cagayan"
+    },
+    {
+      "values": "Santa Teresita, Cagayan",
+      "label": "Santa Teresita, Cagayan"
+    },
+    {
+      "values": "Santo Niño, Cagayan",
+      "label": "Santo Niño, Cagayan"
+    },
+    {
+      "values": "Solana, Cagayan",
+      "label": "Solana, Cagayan"
+    },
+    {
+      "values": "Tuao, Cagayan",
+      "label": "Tuao, Cagayan"
+    },
+    {
+      "values": "Basud, Camarines Norte",
+      "label": "Basud, Camarines Norte"
+    },
+    {
+      "values": "Capalonga, Camarines Norte",
+      "label": "Capalonga, Camarines Norte"
+    },
+    {
+      "values": "Daet, Camarines Norte",
+      "label": "Daet, Camarines Norte"
+    },
+    {
+      "values": "Jose Panganiban, Camarines Norte",
+      "label": "Jose Panganiban, Camarines Norte"
+    },
+    {
+      "values": "Labo, Camarines Norte",
+      "label": "Labo, Camarines Norte"
+    },
+    {
+      "values": "Mercedes, Camarines Norte",
+      "label": "Mercedes, Camarines Norte"
+    },
+    {
+      "values": "Paracale, Camarines Norte",
+      "label": "Paracale, Camarines Norte"
+    },
+    {
+      "values": "San Lorenzo Ruiz, Camarines Norte",
+      "label": "San Lorenzo Ruiz, Camarines Norte"
+    },
+    {
+      "values": "San Vicente, Camarines Norte",
+      "label": "San Vicente, Camarines Norte"
+    },
+    {
+      "values": "Santa Elena, Camarines Norte",
+      "label": "Santa Elena, Camarines Norte"
+    },
+    {
+      "values": "Talisay, Camarines Norte",
+      "label": "Talisay, Camarines Norte"
+    },
+    {
+      "values": "Vinzons, Camarines Norte",
+      "label": "Vinzons, Camarines Norte"
+    },
+    {
+      "values": "Iriga City, Camarines Sur",
+      "label": "Iriga City, Camarines Sur"
+    },
+    {
+      "values": "Naga City, Camarines Sur",
+      "label": "Naga City, Camarines Sur"
+    },
+    {
+      "values": "Baao, Camarines Sur",
+      "label": "Baao, Camarines Sur"
+    },
+    {
+      "values": "Balatan, Camarines Sur",
+      "label": "Balatan, Camarines Sur"
+    },
+    {
+      "values": "Bato, Camarines Sur",
+      "label": "Bato, Camarines Sur"
+    },
+    {
+      "values": "Bombon, Camarines Sur",
+      "label": "Bombon, Camarines Sur"
+    },
+    {
+      "values": "Buhi, Camarines Sur",
+      "label": "Buhi, Camarines Sur"
+    },
+    {
+      "values": "Bula, Camarines Sur",
+      "label": "Bula, Camarines Sur"
+    },
+    {
+      "values": "Cabusao, Camarines Sur",
+      "label": "Cabusao, Camarines Sur"
+    },
+    {
+      "values": "Calabanga, Camarines Sur",
+      "label": "Calabanga, Camarines Sur"
+    },
+    {
+      "values": "Camaligan, Camarines Sur",
+      "label": "Camaligan, Camarines Sur"
+    },
+    {
+      "values": "Canaman, Camarines Sur",
+      "label": "Canaman, Camarines Sur"
+    },
+    {
+      "values": "Caramoan, Camarines Sur",
+      "label": "Caramoan, Camarines Sur"
+    },
+    {
+      "values": "Del Gallego, Camarines Sur",
+      "label": "Del Gallego, Camarines Sur"
+    },
+    {
+      "values": "Gainza, Camarines Sur",
+      "label": "Gainza, Camarines Sur"
+    },
+    {
+      "values": "Garchitorena, Camarines Sur",
+      "label": "Garchitorena, Camarines Sur"
+    },
+    {
+      "values": "Goa, Camarines Sur",
+      "label": "Goa, Camarines Sur"
+    },
+    {
+      "values": "Lagonoy, Camarines Sur",
+      "label": "Lagonoy, Camarines Sur"
+    },
+    {
+      "values": "Libmanan, Camarines Sur",
+      "label": "Libmanan, Camarines Sur"
+    },
+    {
+      "values": "Lupi, Camarines Sur",
+      "label": "Lupi, Camarines Sur"
+    },
+    {
+      "values": "Magarao, Camarines Sur",
+      "label": "Magarao, Camarines Sur"
+    },
+    {
+      "values": "Milaor, Camarines Sur",
+      "label": "Milaor, Camarines Sur"
+    },
+    {
+      "values": "Minalabac, Camarines Sur",
+      "label": "Minalabac, Camarines Sur"
+    },
+    {
+      "values": "Nabua, Camarines Sur",
+      "label": "Nabua, Camarines Sur"
+    },
+    {
+      "values": "Ocampo, Camarines Sur",
+      "label": "Ocampo, Camarines Sur"
+    },
+    {
+      "values": "Pamplona, Camarines Sur",
+      "label": "Pamplona, Camarines Sur"
+    },
+    {
+      "values": "Pasacao, Camarines Sur",
+      "label": "Pasacao, Camarines Sur"
+    },
+    {
+      "values": "Pili, Camarines Sur",
+      "label": "Pili, Camarines Sur"
+    },
+    {
+      "values": "Presentacion, Camarines Sur",
+      "label": "Presentacion, Camarines Sur"
+    },
+    {
+      "values": "Ragay, Camarines Sur",
+      "label": "Ragay, Camarines Sur"
+    },
+    {
+      "values": "Sagñay, Camarines Sur",
+      "label": "Sagñay, Camarines Sur"
+    },
+    {
+      "values": "San Fernando, Camarines Sur",
+      "label": "San Fernando, Camarines Sur"
+    },
+    {
+      "values": "San Jose, Camarines Sur",
+      "label": "San Jose, Camarines Sur"
+    },
+    {
+      "values": "Sipocot, Camarines Sur",
+      "label": "Sipocot, Camarines Sur"
+    },
+    {
+      "values": "Siruma, Camarines Sur",
+      "label": "Siruma, Camarines Sur"
+    },
+    {
+      "values": "Tigaon, Camarines Sur",
+      "label": "Tigaon, Camarines Sur"
+    },
+    {
+      "values": "Tinambac, Camarines Sur",
+      "label": "Tinambac, Camarines Sur"
+    },
+    {
+      "values": "Catarman, Camiguin",
+      "label": "Catarman, Camiguin"
+    },
+    {
+      "values": "Guinsiliban, Camiguin",
+      "label": "Guinsiliban, Camiguin"
+    },
+    {
+      "values": "Mahinog, Camiguin",
+      "label": "Mahinog, Camiguin"
+    },
+    {
+      "values": "Mambajao, Camiguin",
+      "label": "Mambajao, Camiguin"
+    },
+    {
+      "values": "Sagay, Camiguin",
+      "label": "Sagay, Camiguin"
+    },
+    {
+      "values": "Roxas City, Capiz",
+      "label": "Roxas City, Capiz"
+    },
+    {
+      "values": "Cuartero, Capiz",
+      "label": "Cuartero, Capiz"
+    },
+    {
+      "values": "Dao, Capiz",
+      "label": "Dao, Capiz"
+    },
+    {
+      "values": "Dumalag, Capiz",
+      "label": "Dumalag, Capiz"
+    },
+    {
+      "values": "Dumarao, Capiz",
+      "label": "Dumarao, Capiz"
+    },
+    {
+      "values": "Ivisan, Capiz",
+      "label": "Ivisan, Capiz"
+    },
+    {
+      "values": "Jamindan, Capiz",
+      "label": "Jamindan, Capiz"
+    },
+    {
+      "values": "Ma-ayon, Capiz",
+      "label": "Ma-ayon, Capiz"
+    },
+    {
+      "values": "Mambusao, Capiz",
+      "label": "Mambusao, Capiz"
+    },
+    {
+      "values": "Panay, Capiz",
+      "label": "Panay, Capiz"
+    },
+    {
+      "values": "Panitan, Capiz",
+      "label": "Panitan, Capiz"
+    },
+    {
+      "values": "Pilar, Capiz",
+      "label": "Pilar, Capiz"
+    },
+    {
+      "values": "Pontevedra, Capiz",
+      "label": "Pontevedra, Capiz"
+    },
+    {
+      "values": "President Roxas, Capiz",
+      "label": "President Roxas, Capiz"
+    },
+    {
+      "values": "Sapi-an, Capiz",
+      "label": "Sapi-an, Capiz"
+    },
+    {
+      "values": "Sigma, Capiz",
+      "label": "Sigma, Capiz"
+    },
+    {
+      "values": "Tapaz, Capiz",
+      "label": "Tapaz, Capiz"
+    },
+    {
+      "values": "Bagamanoc, Catanduanes",
+      "label": "Bagamanoc, Catanduanes"
+    },
+    {
+      "values": "Baras, Catanduanes",
+      "label": "Baras, Catanduanes"
+    },
+    {
+      "values": "Bato, Catanduanes",
+      "label": "Bato, Catanduanes"
+    },
+    {
+      "values": "Caramoran, Catanduanes",
+      "label": "Caramoran, Catanduanes"
+    },
+    {
+      "values": "Gigmoto, Catanduanes",
+      "label": "Gigmoto, Catanduanes"
+    },
+    {
+      "values": "Pandan, Catanduanes",
+      "label": "Pandan, Catanduanes"
+    },
+    {
+      "values": "Panganiban, Catanduanes",
+      "label": "Panganiban, Catanduanes"
+    },
+    {
+      "values": "San Andres, Catanduanes",
+      "label": "San Andres, Catanduanes"
+    },
+    {
+      "values": "San Miguel, Catanduanes",
+      "label": "San Miguel, Catanduanes"
+    },
+    {
+      "values": "Viga, Catanduanes",
+      "label": "Viga, Catanduanes"
+    },
+    {
+      "values": "Virac, Catanduanes",
+      "label": "Virac, Catanduanes"
+    },
+    {
+      "values": "Cavite City, Cavite",
+      "label": "Cavite City, Cavite"
+    },
+    {
+      "values": "Dasmariñas City, Cavite",
+      "label": "Dasmariñas City, Cavite"
+    },
+    {
+      "values": "Tagaytay City, Cavite",
+      "label": "Tagaytay City, Cavite"
+    },
+    {
+      "values": "Trece Martires City, Cavite",
+      "label": "Trece Martires City, Cavite"
+    },
+    {
+      "values": "Alfonso, Cavite",
+      "label": "Alfonso, Cavite"
+    },
+    {
+      "values": "Amadeo, Cavite",
+      "label": "Amadeo, Cavite"
+    },
+    {
+      "values": "Bacoor, Cavite",
+      "label": "Bacoor, Cavite"
+    },
+    {
+      "values": "Carmona, Cavite",
+      "label": "Carmona, Cavite"
+    },
+    {
+      "values": "General Mariano Alvarez, Cavite",
+      "label": "General Mariano Alvarez, Cavite"
+    },
+    {
+      "values": "General Emilio Aguinaldo, Cavite",
+      "label": "General Emilio Aguinaldo, Cavite"
+    },
+    {
+      "values": "General Trias, Cavite",
+      "label": "General Trias, Cavite"
+    },
+    {
+      "values": "Imus, Cavite",
+      "label": "Imus, Cavite"
+    },
+    {
+      "values": "Indang, Cavite",
+      "label": "Indang, Cavite"
+    },
+    {
+      "values": "Kawit, Cavite",
+      "label": "Kawit, Cavite"
+    },
+    {
+      "values": "Magallanes, Cavite",
+      "label": "Magallanes, Cavite"
+    },
+    {
+      "values": "Maragondon, Cavite",
+      "label": "Maragondon, Cavite"
+    },
+    {
+      "values": "Mendez, Cavite",
+      "label": "Mendez, Cavite"
+    },
+    {
+      "values": "Naic, Cavite",
+      "label": "Naic, Cavite"
+    },
+    {
+      "values": "Noveleta, Cavite",
+      "label": "Noveleta, Cavite"
+    },
+    {
+      "values": "Rosario, Cavite",
+      "label": "Rosario, Cavite"
+    },
+    {
+      "values": "Silang, Cavite",
+      "label": "Silang, Cavite"
+    },
+    {
+      "values": "Tanza, Cavite",
+      "label": "Tanza, Cavite"
+    },
+    {
+      "values": "Ternate, Cavite",
+      "label": "Ternate, Cavite"
+    },
+    {
+      "values": "Bogo City, Cebu",
+      "label": "Bogo City, Cebu"
+    },
+    {
+      "values": "Cebu City, Cebu",
+      "label": "Cebu City, Cebu"
+    },
+    {
+      "values": "Carcar City, Cebu",
+      "label": "Carcar City, Cebu"
+    },
+    {
+      "values": "Danao City, Cebu",
+      "label": "Danao City, Cebu"
+    },
+    {
+      "values": "Lapu-Lapu City, Cebu",
+      "label": "Lapu-Lapu City, Cebu"
+    },
+    {
+      "values": "Mandaue City, Cebu",
+      "label": "Mandaue City, Cebu"
+    },
+    {
+      "values": "Naga City, Cebu",
+      "label": "Naga City, Cebu"
+    },
+    {
+      "values": "Talisay City, Cebu",
+      "label": "Talisay City, Cebu"
+    },
+    {
+      "values": "Toledo City, Cebu",
+      "label": "Toledo City, Cebu"
+    },
+    {
+      "values": "Alcantara, Cebu",
+      "label": "Alcantara, Cebu"
+    },
+    {
+      "values": "Alcoy, Cebu",
+      "label": "Alcoy, Cebu"
+    },
+    {
+      "values": "Alegria, Cebu",
+      "label": "Alegria, Cebu"
+    },
+    {
+      "values": "Aloguinsan, Cebu",
+      "label": "Aloguinsan, Cebu"
+    },
+    {
+      "values": "Argao, Cebu",
+      "label": "Argao, Cebu"
+    },
+    {
+      "values": "Asturias, Cebu",
+      "label": "Asturias, Cebu"
+    },
+    {
+      "values": "Badian, Cebu",
+      "label": "Badian, Cebu"
+    },
+    {
+      "values": "Balamban, Cebu",
+      "label": "Balamban, Cebu"
+    },
+    {
+      "values": "Bantayan, Cebu",
+      "label": "Bantayan, Cebu"
+    },
+    {
+      "values": "Barili, Cebu",
+      "label": "Barili, Cebu"
+    },
+    {
+      "values": "Boljoon, Cebu",
+      "label": "Boljoon, Cebu"
+    },
+    {
+      "values": "Borbon, Cebu",
+      "label": "Borbon, Cebu"
+    },
+    {
+      "values": "Carmen, Cebu",
+      "label": "Carmen, Cebu"
+    },
+    {
+      "values": "Catmon, Cebu",
+      "label": "Catmon, Cebu"
+    },
+    {
+      "values": "Compostela, Cebu",
+      "label": "Compostela, Cebu"
+    },
+    {
+      "values": "Consolacion, Cebu",
+      "label": "Consolacion, Cebu"
+    },
+    {
+      "values": "Cordoba, Cebu",
+      "label": "Cordoba, Cebu"
+    },
+    {
+      "values": "Daanbantayan, Cebu",
+      "label": "Daanbantayan, Cebu"
+    },
+    {
+      "values": "Dalaguete, Cebu",
+      "label": "Dalaguete, Cebu"
+    },
+    {
+      "values": "Dumanjug, Cebu",
+      "label": "Dumanjug, Cebu"
+    },
+    {
+      "values": "Ginatilan, Cebu",
+      "label": "Ginatilan, Cebu"
+    },
+    {
+      "values": "Liloan, Cebu",
+      "label": "Liloan, Cebu"
+    },
+    {
+      "values": "Madridejos, Cebu",
+      "label": "Madridejos, Cebu"
+    },
+    {
+      "values": "Malabuyoc, Cebu",
+      "label": "Malabuyoc, Cebu"
+    },
+    {
+      "values": "Medellin, Cebu",
+      "label": "Medellin, Cebu"
+    },
+    {
+      "values": "Minglanilla, Cebu",
+      "label": "Minglanilla, Cebu"
+    },
+    {
+      "values": "Moalboal, Cebu",
+      "label": "Moalboal, Cebu"
+    },
+    {
+      "values": "Oslob, Cebu",
+      "label": "Oslob, Cebu"
+    },
+    {
+      "values": "Pilar, Cebu",
+      "label": "Pilar, Cebu"
+    },
+    {
+      "values": "Pinamungahan, Cebu",
+      "label": "Pinamungahan, Cebu"
+    },
+    {
+      "values": "Poro, Cebu",
+      "label": "Poro, Cebu"
+    },
+    {
+      "values": "Ronda, Cebu",
+      "label": "Ronda, Cebu"
+    },
+    {
+      "values": "Samboan, Cebu",
+      "label": "Samboan, Cebu"
+    },
+    {
+      "values": "San Fernando, Cebu",
+      "label": "San Fernando, Cebu"
+    },
+    {
+      "values": "San Francisco, Cebu",
+      "label": "San Francisco, Cebu"
+    },
+    {
+      "values": "San Remigio, Cebu",
+      "label": "San Remigio, Cebu"
+    },
+    {
+      "values": "Santa Fe, Cebu",
+      "label": "Santa Fe, Cebu"
+    },
+    {
+      "values": "Santander, Cebu",
+      "label": "Santander, Cebu"
+    },
+    {
+      "values": "Sibonga, Cebu",
+      "label": "Sibonga, Cebu"
+    },
+    {
+      "values": "Sogod, Cebu",
+      "label": "Sogod, Cebu"
+    },
+    {
+      "values": "Tabogon, Cebu",
+      "label": "Tabogon, Cebu"
+    },
+    {
+      "values": "Tabuelan, Cebu",
+      "label": "Tabuelan, Cebu"
+    },
+    {
+      "values": "Tuburan, Cebu",
+      "label": "Tuburan, Cebu"
+    },
+    {
+      "values": "Tudela, Cebu",
+      "label": "Tudela, Cebu"
+    },
+    {
+      "values": "Compostela, Compostela Valley",
+      "label": "Compostela, Compostela Valley"
+    },
+    {
+      "values": "Laak, Compostela Valley",
+      "label": "Laak, Compostela Valley"
+    },
+    {
+      "values": "Mabini, Compostela Valley",
+      "label": "Mabini, Compostela Valley"
+    },
+    {
+      "values": "Maco, Compostela Valley",
+      "label": "Maco, Compostela Valley"
+    },
+    {
+      "values": "Maragusan, Compostela Valley",
+      "label": "Maragusan, Compostela Valley"
+    },
+    {
+      "values": "Mawab, Compostela Valley",
+      "label": "Mawab, Compostela Valley"
+    },
+    {
+      "values": "Monkayo, Compostela Valley",
+      "label": "Monkayo, Compostela Valley"
+    },
+    {
+      "values": "Montevista, Compostela Valley",
+      "label": "Montevista, Compostela Valley"
+    },
+    {
+      "values": "Nabunturan, Compostela Valley",
+      "label": "Nabunturan, Compostela Valley"
+    },
+    {
+      "values": "New Bataan, Compostela Valley",
+      "label": "New Bataan, Compostela Valley"
+    },
+    {
+      "values": "Pantukan, Compostela Valley",
+      "label": "Pantukan, Compostela Valley"
+    },
+    {
+      "values": "Kidapawan City, Cotabato",
+      "label": "Kidapawan City, Cotabato"
+    },
+    {
+      "values": "Alamada, Cotabato",
+      "label": "Alamada, Cotabato"
+    },
+    {
+      "values": "Aleosan, Cotabato",
+      "label": "Aleosan, Cotabato"
+    },
+    {
+      "values": "Antipas, Cotabato",
+      "label": "Antipas, Cotabato"
+    },
+    {
+      "values": "Arakan, Cotabato",
+      "label": "Arakan, Cotabato"
+    },
+    {
+      "values": "Banisilan, Cotabato",
+      "label": "Banisilan, Cotabato"
+    },
+    {
+      "values": "Carmen, Cotabato",
+      "label": "Carmen, Cotabato"
+    },
+    {
+      "values": "Kabacan, Cotabato",
+      "label": "Kabacan, Cotabato"
+    },
+    {
+      "values": "Libungan, Cotabato",
+      "label": "Libungan, Cotabato"
+    },
+    {
+      "values": "M'lang, Cotabato",
+      "label": "M'lang, Cotabato"
+    },
+    {
+      "values": "Magpet, Cotabato",
+      "label": "Magpet, Cotabato"
+    },
+    {
+      "values": "Makilala, Cotabato",
+      "label": "Makilala, Cotabato"
+    },
+    {
+      "values": "Matalam, Cotabato",
+      "label": "Matalam, Cotabato"
+    },
+    {
+      "values": "Midsayap, Cotabato",
+      "label": "Midsayap, Cotabato"
+    },
+    {
+      "values": "Pigkawayan, Cotabato",
+      "label": "Pigkawayan, Cotabato"
+    },
+    {
+      "values": "Pikit, Cotabato",
+      "label": "Pikit, Cotabato"
+    },
+    {
+      "values": "President Roxas, Cotabato",
+      "label": "President Roxas, Cotabato"
+    },
+    {
+      "values": "Tulunan, Cotabato",
+      "label": "Tulunan, Cotabato"
+    },
+    {
+      "values": "Panabo City, Davao del Norte",
+      "label": "Panabo City, Davao del Norte"
+    },
+    {
+      "values": "Island Garden City of Samal, Davao del Norte",
+      "label": "Island Garden City of Samal, Davao del Norte"
+    },
+    {
+      "values": "Tagum City, Davao del Norte",
+      "label": "Tagum City, Davao del Norte"
+    },
+    {
+      "values": "Asuncion, Davao del Norte",
+      "label": "Asuncion, Davao del Norte"
+    },
+    {
+      "values": "Braulio E. Dujali, Davao del Norte",
+      "label": "Braulio E. Dujali, Davao del Norte"
+    },
+    {
+      "values": "Carmen, Davao del Norte",
+      "label": "Carmen, Davao del Norte"
+    },
+    {
+      "values": "Kapalong, Davao del Norte",
+      "label": "Kapalong, Davao del Norte"
+    },
+    {
+      "values": "New Corella, Davao del Norte",
+      "label": "New Corella, Davao del Norte"
+    },
+    {
+      "values": "San Isidro, Davao del Norte",
+      "label": "San Isidro, Davao del Norte"
+    },
+    {
+      "values": "Santo Tomas, Davao del Norte",
+      "label": "Santo Tomas, Davao del Norte"
+    },
+    {
+      "values": "Talaingod, Davao del Norte",
+      "label": "Talaingod, Davao del Norte"
+    },
+    {
+      "values": "Davao City, Davao del Sur",
+      "label": "Davao City, Davao del Sur"
+    },
+    {
+      "values": "Digos City, Davao del Sur",
+      "label": "Digos City, Davao del Sur"
+    },
+    {
+      "values": "Bansalan, Davao del Sur",
+      "label": "Bansalan, Davao del Sur"
+    },
+    {
+      "values": "Don Marcelino, Davao del Sur",
+      "label": "Don Marcelino, Davao del Sur"
+    },
+    {
+      "values": "Hagonoy, Davao del Sur",
+      "label": "Hagonoy, Davao del Sur"
+    },
+    {
+      "values": "Jose Abad Santos, Davao del Sur",
+      "label": "Jose Abad Santos, Davao del Sur"
+    },
+    {
+      "values": "Kiblawan, Davao del Sur",
+      "label": "Kiblawan, Davao del Sur"
+    },
+    {
+      "values": "Magsaysay, Davao del Sur",
+      "label": "Magsaysay, Davao del Sur"
+    },
+    {
+      "values": "Malalag, Davao del Sur",
+      "label": "Malalag, Davao del Sur"
+    },
+    {
+      "values": "Malita, Davao del Sur",
+      "label": "Malita, Davao del Sur"
+    },
+    {
+      "values": "Matanao, Davao del Sur",
+      "label": "Matanao, Davao del Sur"
+    },
+    {
+      "values": "Padada, Davao del Sur",
+      "label": "Padada, Davao del Sur"
+    },
+    {
+      "values": "Santa Cruz, Davao del Sur",
+      "label": "Santa Cruz, Davao del Sur"
+    },
+    {
+      "values": "Santa Maria, Davao del Sur",
+      "label": "Santa Maria, Davao del Sur"
+    },
+    {
+      "values": "Sarangani, Davao del Sur",
+      "label": "Sarangani, Davao del Sur"
+    },
+    {
+      "values": "Sulop, Davao del Sur",
+      "label": "Sulop, Davao del Sur"
+    },
+    {
+      "values": "Mati City, Davao Oriental",
+      "label": "Mati City, Davao Oriental"
+    },
+    {
+      "values": "Baganga, Davao Oriental",
+      "label": "Baganga, Davao Oriental"
+    },
+    {
+      "values": "Banaybanay, Davao Oriental",
+      "label": "Banaybanay, Davao Oriental"
+    },
+    {
+      "values": "Boston, Davao Oriental",
+      "label": "Boston, Davao Oriental"
+    },
+    {
+      "values": "Caraga, Davao Oriental",
+      "label": "Caraga, Davao Oriental"
+    },
+    {
+      "values": "Cateel, Davao Oriental",
+      "label": "Cateel, Davao Oriental"
+    },
+    {
+      "values": "Governor Generoso, Davao Oriental",
+      "label": "Governor Generoso, Davao Oriental"
+    },
+    {
+      "values": "Lupon, Davao Oriental",
+      "label": "Lupon, Davao Oriental"
+    },
+    {
+      "values": "Manay, Davao Oriental",
+      "label": "Manay, Davao Oriental"
+    },
+    {
+      "values": "San Isidro, Davao Oriental",
+      "label": "San Isidro, Davao Oriental"
+    },
+    {
+      "values": "Tarragona, Davao Oriental",
+      "label": "Tarragona, Davao Oriental"
+    },
+    {
+      "values": "Arteche, Eastern Samar",
+      "label": "Arteche, Eastern Samar"
+    },
+    {
+      "values": "Balangiga, Eastern Samar",
+      "label": "Balangiga, Eastern Samar"
+    },
+    {
+      "values": "Balangkayan, Eastern Samar",
+      "label": "Balangkayan, Eastern Samar"
+    },
+    {
+      "values": "Borongan, Eastern Samar",
+      "label": "Borongan, Eastern Samar"
+    },
+    {
+      "values": "Can-avid, Eastern Samar",
+      "label": "Can-avid, Eastern Samar"
+    },
+    {
+      "values": "Dolores, Eastern Samar",
+      "label": "Dolores, Eastern Samar"
+    },
+    {
+      "values": "General MacArthur, Eastern Samar",
+      "label": "General MacArthur, Eastern Samar"
+    },
+    {
+      "values": "Giporlos, Eastern Samar",
+      "label": "Giporlos, Eastern Samar"
+    },
+    {
+      "values": "Guiuan, Eastern Samar",
+      "label": "Guiuan, Eastern Samar"
+    },
+    {
+      "values": "Hernani, Eastern Samar",
+      "label": "Hernani, Eastern Samar"
+    },
+    {
+      "values": "Jipapad, Eastern Samar",
+      "label": "Jipapad, Eastern Samar"
+    },
+    {
+      "values": "Lawaan, Eastern Samar",
+      "label": "Lawaan, Eastern Samar"
+    },
+    {
+      "values": "Llorente, Eastern Samar",
+      "label": "Llorente, Eastern Samar"
+    },
+    {
+      "values": "Maslog, Eastern Samar",
+      "label": "Maslog, Eastern Samar"
+    },
+    {
+      "values": "Maydolong, Eastern Samar",
+      "label": "Maydolong, Eastern Samar"
+    },
+    {
+      "values": "Mercedes, Eastern Samar",
+      "label": "Mercedes, Eastern Samar"
+    },
+    {
+      "values": "Oras, Eastern Samar",
+      "label": "Oras, Eastern Samar"
+    },
+    {
+      "values": "Quinapondan, Eastern Samar",
+      "label": "Quinapondan, Eastern Samar"
+    },
+    {
+      "values": "Salcedo, Eastern Samar",
+      "label": "Salcedo, Eastern Samar"
+    },
+    {
+      "values": "San Julian, Eastern Samar",
+      "label": "San Julian, Eastern Samar"
+    },
+    {
+      "values": "San Policarpo, Eastern Samar",
+      "label": "San Policarpo, Eastern Samar"
+    },
+    {
+      "values": "Sulat, Eastern Samar",
+      "label": "Sulat, Eastern Samar"
+    },
+    {
+      "values": "Taft, Eastern Samar",
+      "label": "Taft, Eastern Samar"
+    },
+    {
+      "values": "Buenavista, Guimaras",
+      "label": "Buenavista, Guimaras"
+    },
+    {
+      "values": "Jordan, Guimaras",
+      "label": "Jordan, Guimaras"
+    },
+    {
+      "values": "Nueva Valencia, Guimaras",
+      "label": "Nueva Valencia, Guimaras"
+    },
+    {
+      "values": "San Lorenzo, Guimaras",
+      "label": "San Lorenzo, Guimaras"
+    },
+    {
+      "values": "Sibunag, Guimaras",
+      "label": "Sibunag, Guimaras"
+    },
+    {
+      "values": "Aguinaldo, Ifugao",
+      "label": "Aguinaldo, Ifugao"
+    },
+    {
+      "values": "Alfonso Lista, Ifugao",
+      "label": "Alfonso Lista, Ifugao"
+    },
+    {
+      "values": "Asipulo, Ifugao",
+      "label": "Asipulo, Ifugao"
+    },
+    {
+      "values": "Banaue, Ifugao",
+      "label": "Banaue, Ifugao"
+    },
+    {
+      "values": "Hingyon, Ifugao",
+      "label": "Hingyon, Ifugao"
+    },
+    {
+      "values": "Hungduan, Ifugao",
+      "label": "Hungduan, Ifugao"
+    },
+    {
+      "values": "Kiangan, Ifugao",
+      "label": "Kiangan, Ifugao"
+    },
+    {
+      "values": "Lagawe, Ifugao",
+      "label": "Lagawe, Ifugao"
+    },
+    {
+      "values": "Lamut, Ifugao",
+      "label": "Lamut, Ifugao"
+    },
+    {
+      "values": "Mayoyao, Ifugao",
+      "label": "Mayoyao, Ifugao"
+    },
+    {
+      "values": "Tinoc, Ifugao",
+      "label": "Tinoc, Ifugao"
+    },
+    {
+      "values": "Batac City, Ilocos Norte",
+      "label": "Batac City, Ilocos Norte"
+    },
+    {
+      "values": "Laoag City, Ilocos Norte",
+      "label": "Laoag City, Ilocos Norte"
+    },
+    {
+      "values": "Adams, Ilocos Norte",
+      "label": "Adams, Ilocos Norte"
+    },
+    {
+      "values": "Bacarra, Ilocos Norte",
+      "label": "Bacarra, Ilocos Norte"
+    },
+    {
+      "values": "Badoc, Ilocos Norte",
+      "label": "Badoc, Ilocos Norte"
+    },
+    {
+      "values": "Bangui, Ilocos Norte",
+      "label": "Bangui, Ilocos Norte"
+    },
+    {
+      "values": "Banna, Ilocos Norte",
+      "label": "Banna, Ilocos Norte"
+    },
+    {
+      "values": "Burgos, Ilocos Norte",
+      "label": "Burgos, Ilocos Norte"
+    },
+    {
+      "values": "Carasi, Ilocos Norte",
+      "label": "Carasi, Ilocos Norte"
+    },
+    {
+      "values": "Currimao, Ilocos Norte",
+      "label": "Currimao, Ilocos Norte"
+    },
+    {
+      "values": "Dingras, Ilocos Norte",
+      "label": "Dingras, Ilocos Norte"
+    },
+    {
+      "values": "Dumalneg, Ilocos Norte",
+      "label": "Dumalneg, Ilocos Norte"
+    },
+    {
+      "values": "Marcos, Ilocos Norte",
+      "label": "Marcos, Ilocos Norte"
+    },
+    {
+      "values": "Nueva Era, Ilocos Norte",
+      "label": "Nueva Era, Ilocos Norte"
+    },
+    {
+      "values": "Pagudpud, Ilocos Norte",
+      "label": "Pagudpud, Ilocos Norte"
+    },
+    {
+      "values": "Paoay, Ilocos Norte",
+      "label": "Paoay, Ilocos Norte"
+    },
+    {
+      "values": "Pasuquin, Ilocos Norte",
+      "label": "Pasuquin, Ilocos Norte"
+    },
+    {
+      "values": "Piddig, Ilocos Norte",
+      "label": "Piddig, Ilocos Norte"
+    },
+    {
+      "values": "Pinili, Ilocos Norte",
+      "label": "Pinili, Ilocos Norte"
+    },
+    {
+      "values": "San Nicolas, Ilocos Norte",
+      "label": "San Nicolas, Ilocos Norte"
+    },
+    {
+      "values": "Sarrat, Ilocos Norte",
+      "label": "Sarrat, Ilocos Norte"
+    },
+    {
+      "values": "Solsona, Ilocos Norte",
+      "label": "Solsona, Ilocos Norte"
+    },
+    {
+      "values": "Vintar, Ilocos Norte",
+      "label": "Vintar, Ilocos Norte"
+    },
+    {
+      "values": "Candon City, Ilocos Sur",
+      "label": "Candon City, Ilocos Sur"
+    },
+    {
+      "values": "Vigan City, Ilocos Sur",
+      "label": "Vigan City, Ilocos Sur"
+    },
+    {
+      "values": "Alilem, Ilocos Sur",
+      "label": "Alilem, Ilocos Sur"
+    },
+    {
+      "values": "Banayoyo, Ilocos Sur",
+      "label": "Banayoyo, Ilocos Sur"
+    },
+    {
+      "values": "Bantay, Ilocos Sur",
+      "label": "Bantay, Ilocos Sur"
+    },
+    {
+      "values": "Burgos, Ilocos Sur",
+      "label": "Burgos, Ilocos Sur"
+    },
+    {
+      "values": "Cabugao, Ilocos Sur",
+      "label": "Cabugao, Ilocos Sur"
+    },
+    {
+      "values": "Caoayan, Ilocos Sur",
+      "label": "Caoayan, Ilocos Sur"
+    },
+    {
+      "values": "Cervantes, Ilocos Sur",
+      "label": "Cervantes, Ilocos Sur"
+    },
+    {
+      "values": "Galimuyod, Ilocos Sur",
+      "label": "Galimuyod, Ilocos Sur"
+    },
+    {
+      "values": "Gregorio Del Pilar, Ilocos Sur",
+      "label": "Gregorio Del Pilar, Ilocos Sur"
+    },
+    {
+      "values": "Lidlidda, Ilocos Sur",
+      "label": "Lidlidda, Ilocos Sur"
+    },
+    {
+      "values": "Magsingal, Ilocos Sur",
+      "label": "Magsingal, Ilocos Sur"
+    },
+    {
+      "values": "Nagbukel, Ilocos Sur",
+      "label": "Nagbukel, Ilocos Sur"
+    },
+    {
+      "values": "Narvacan, Ilocos Sur",
+      "label": "Narvacan, Ilocos Sur"
+    },
+    {
+      "values": "Quirino, Ilocos Sur",
+      "label": "Quirino, Ilocos Sur"
+    },
+    {
+      "values": "Salcedo, Ilocos Sur",
+      "label": "Salcedo, Ilocos Sur"
+    },
+    {
+      "values": "San Emilio, Ilocos Sur",
+      "label": "San Emilio, Ilocos Sur"
+    },
+    {
+      "values": "San Esteban, Ilocos Sur",
+      "label": "San Esteban, Ilocos Sur"
+    },
+    {
+      "values": "San Ildefonso, Ilocos Sur",
+      "label": "San Ildefonso, Ilocos Sur"
+    },
+    {
+      "values": "San Juan, Ilocos Sur",
+      "label": "San Juan, Ilocos Sur"
+    },
+    {
+      "values": "San Vicente, Ilocos Sur",
+      "label": "San Vicente, Ilocos Sur"
+    },
+    {
+      "values": "Santa, Ilocos Sur",
+      "label": "Santa, Ilocos Sur"
+    },
+    {
+      "values": "Santa Catalina, Ilocos Sur",
+      "label": "Santa Catalina, Ilocos Sur"
+    },
+    {
+      "values": "Santa Cruz, Ilocos Sur",
+      "label": "Santa Cruz, Ilocos Sur"
+    },
+    {
+      "values": "Santa Lucia, Ilocos Sur",
+      "label": "Santa Lucia, Ilocos Sur"
+    },
+    {
+      "values": "Santa Maria, Ilocos Sur",
+      "label": "Santa Maria, Ilocos Sur"
+    },
+    {
+      "values": "Santiago, Ilocos Sur",
+      "label": "Santiago, Ilocos Sur"
+    },
+    {
+      "values": "Santo Domingo, Ilocos Sur",
+      "label": "Santo Domingo, Ilocos Sur"
+    },
+    {
+      "values": "Sigay, Ilocos Sur",
+      "label": "Sigay, Ilocos Sur"
+    },
+    {
+      "values": "Sinait, Ilocos Sur",
+      "label": "Sinait, Ilocos Sur"
+    },
+    {
+      "values": "Sugpon, Ilocos Sur",
+      "label": "Sugpon, Ilocos Sur"
+    },
+    {
+      "values": "Suyo, Ilocos Sur",
+      "label": "Suyo, Ilocos Sur"
+    },
+    {
+      "values": "Tagudin, Ilocos Sur",
+      "label": "Tagudin, Ilocos Sur"
+    },
+    {
+      "values": "Iloilo City, Iloilo",
+      "label": "Iloilo City, Iloilo"
+    },
+    {
+      "values": "Passi City, Iloilo",
+      "label": "Passi City, Iloilo"
+    },
+    {
+      "values": "Ajuy, Iloilo",
+      "label": "Ajuy, Iloilo"
+    },
+    {
+      "values": "Alimodian, Iloilo",
+      "label": "Alimodian, Iloilo"
+    },
+    {
+      "values": "Anilao, Iloilo",
+      "label": "Anilao, Iloilo"
+    },
+    {
+      "values": "Badiangan, Iloilo",
+      "label": "Badiangan, Iloilo"
+    },
+    {
+      "values": "Balasan, Iloilo",
+      "label": "Balasan, Iloilo"
+    },
+    {
+      "values": "Banate, Iloilo",
+      "label": "Banate, Iloilo"
+    },
+    {
+      "values": "Barotac Nuevo, Iloilo",
+      "label": "Barotac Nuevo, Iloilo"
+    },
+    {
+      "values": "Barotac Viejo, Iloilo",
+      "label": "Barotac Viejo, Iloilo"
+    },
+    {
+      "values": "Batad, Iloilo",
+      "label": "Batad, Iloilo"
+    },
+    {
+      "values": "Bingawan, Iloilo",
+      "label": "Bingawan, Iloilo"
+    },
+    {
+      "values": "Cabatuan, Iloilo",
+      "label": "Cabatuan, Iloilo"
+    },
+    {
+      "values": "Calinog, Iloilo",
+      "label": "Calinog, Iloilo"
+    },
+    {
+      "values": "Carles, Iloilo",
+      "label": "Carles, Iloilo"
+    },
+    {
+      "values": "Concepcion, Iloilo",
+      "label": "Concepcion, Iloilo"
+    },
+    {
+      "values": "Dingle, Iloilo",
+      "label": "Dingle, Iloilo"
+    },
+    {
+      "values": "Dueñas, Iloilo",
+      "label": "Dueñas, Iloilo"
+    },
+    {
+      "values": "Dumangas, Iloilo",
+      "label": "Dumangas, Iloilo"
+    },
+    {
+      "values": "Estancia, Iloilo",
+      "label": "Estancia, Iloilo"
+    },
+    {
+      "values": "Guimbal, Iloilo",
+      "label": "Guimbal, Iloilo"
+    },
+    {
+      "values": "Igbaras, Iloilo",
+      "label": "Igbaras, Iloilo"
+    },
+    {
+      "values": "Janiuay, Iloilo",
+      "label": "Janiuay, Iloilo"
+    },
+    {
+      "values": "Lambunao, Iloilo",
+      "label": "Lambunao, Iloilo"
+    },
+    {
+      "values": "Leganes, Iloilo",
+      "label": "Leganes, Iloilo"
+    },
+    {
+      "values": "Lemery, Iloilo",
+      "label": "Lemery, Iloilo"
+    },
+    {
+      "values": "Leon, Iloilo",
+      "label": "Leon, Iloilo"
+    },
+    {
+      "values": "Maasin, Iloilo",
+      "label": "Maasin, Iloilo"
+    },
+    {
+      "values": "Miagao, Iloilo",
+      "label": "Miagao, Iloilo"
+    },
+    {
+      "values": "Mina, Iloilo",
+      "label": "Mina, Iloilo"
+    },
+    {
+      "values": "New Lucena, Iloilo",
+      "label": "New Lucena, Iloilo"
+    },
+    {
+      "values": "Oton, Iloilo",
+      "label": "Oton, Iloilo"
+    },
+    {
+      "values": "Pavia, Iloilo",
+      "label": "Pavia, Iloilo"
+    },
+    {
+      "values": "Pototan, Iloilo",
+      "label": "Pototan, Iloilo"
+    },
+    {
+      "values": "San Dionisio, Iloilo",
+      "label": "San Dionisio, Iloilo"
+    },
+    {
+      "values": "San Enrique, Iloilo",
+      "label": "San Enrique, Iloilo"
+    },
+    {
+      "values": "San Joaquin, Iloilo",
+      "label": "San Joaquin, Iloilo"
+    },
+    {
+      "values": "San Miguel, Iloilo",
+      "label": "San Miguel, Iloilo"
+    },
+    {
+      "values": "San Rafael, Iloilo",
+      "label": "San Rafael, Iloilo"
+    },
+    {
+      "values": "Santa Barbara, Iloilo",
+      "label": "Santa Barbara, Iloilo"
+    },
+    {
+      "values": "Sara, Iloilo",
+      "label": "Sara, Iloilo"
+    },
+    {
+      "values": "Tigbauan, Iloilo",
+      "label": "Tigbauan, Iloilo"
+    },
+    {
+      "values": "Tubungan, Iloilo",
+      "label": "Tubungan, Iloilo"
+    },
+    {
+      "values": "Zarraga, Iloilo",
+      "label": "Zarraga, Iloilo"
+    },
+    {
+      "values": "Cauayan City, Isabela",
+      "label": "Cauayan City, Isabela"
+    },
+    {
+      "values": "Santiago City, Isabela",
+      "label": "Santiago City, Isabela"
+    },
+    {
+      "values": "Alicia, Isabela",
+      "label": "Alicia, Isabela"
+    },
+    {
+      "values": "Angadanan, Isabela",
+      "label": "Angadanan, Isabela"
+    },
+    {
+      "values": "Aurora, Isabela",
+      "label": "Aurora, Isabela"
+    },
+    {
+      "values": "Benito Soliven, Isabela",
+      "label": "Benito Soliven, Isabela"
+    },
+    {
+      "values": "Burgos, Isabela",
+      "label": "Burgos, Isabela"
+    },
+    {
+      "values": "Cabagan, Isabela",
+      "label": "Cabagan, Isabela"
+    },
+    {
+      "values": "Cabatuan, Isabela",
+      "label": "Cabatuan, Isabela"
+    },
+    {
+      "values": "Cordon, Isabela",
+      "label": "Cordon, Isabela"
+    },
+    {
+      "values": "Delfin Albano, Isabela",
+      "label": "Delfin Albano, Isabela"
+    },
+    {
+      "values": "Dinapigue, Isabela",
+      "label": "Dinapigue, Isabela"
+    },
+    {
+      "values": "Divilacan, Isabela",
+      "label": "Divilacan, Isabela"
+    },
+    {
+      "values": "Echague, Isabela",
+      "label": "Echague, Isabela"
+    },
+    {
+      "values": "Gamu, Isabela",
+      "label": "Gamu, Isabela"
+    },
+    {
+      "values": "Ilagan, Isabela",
+      "label": "Ilagan, Isabela"
+    },
+    {
+      "values": "Jones, Isabela",
+      "label": "Jones, Isabela"
+    },
+    {
+      "values": "Luna, Isabela",
+      "label": "Luna, Isabela"
+    },
+    {
+      "values": "Maconacon, Isabela",
+      "label": "Maconacon, Isabela"
+    },
+    {
+      "values": "Mallig, Isabela",
+      "label": "Mallig, Isabela"
+    },
+    {
+      "values": "Naguilian, Isabela",
+      "label": "Naguilian, Isabela"
+    },
+    {
+      "values": "Palanan, Isabela",
+      "label": "Palanan, Isabela"
+    },
+    {
+      "values": "Quezon, Isabela",
+      "label": "Quezon, Isabela"
+    },
+    {
+      "values": "Quirino, Isabela",
+      "label": "Quirino, Isabela"
+    },
+    {
+      "values": "Ramon, Isabela",
+      "label": "Ramon, Isabela"
+    },
+    {
+      "values": "Reina Mercedes, Isabela",
+      "label": "Reina Mercedes, Isabela"
+    },
+    {
+      "values": "Roxas, Isabela",
+      "label": "Roxas, Isabela"
+    },
+    {
+      "values": "San Agustin, Isabela",
+      "label": "San Agustin, Isabela"
+    },
+    {
+      "values": "San Guillermo, Isabela",
+      "label": "San Guillermo, Isabela"
+    },
+    {
+      "values": "San Isidro, Isabela",
+      "label": "San Isidro, Isabela"
+    },
+    {
+      "values": "San Manuel, Isabela",
+      "label": "San Manuel, Isabela"
+    },
+    {
+      "values": "San Mariano, Isabela",
+      "label": "San Mariano, Isabela"
+    },
+    {
+      "values": "San Mateo, Isabela",
+      "label": "San Mateo, Isabela"
+    },
+    {
+      "values": "San Pablo, Isabela",
+      "label": "San Pablo, Isabela"
+    },
+    {
+      "values": "Santa Maria, Isabela",
+      "label": "Santa Maria, Isabela"
+    },
+    {
+      "values": "Santo Tomas, Isabela",
+      "label": "Santo Tomas, Isabela"
+    },
+    {
+      "values": "Tumauini, Isabela",
+      "label": "Tumauini, Isabela"
+    },
+    {
+      "values": "Tabuk, Kalinga",
+      "label": "Tabuk, Kalinga"
+    },
+    {
+      "values": "Balbalan, Kalinga",
+      "label": "Balbalan, Kalinga"
+    },
+    {
+      "values": "Lubuagan, Kalinga",
+      "label": "Lubuagan, Kalinga"
+    },
+    {
+      "values": "Pasil, Kalinga",
+      "label": "Pasil, Kalinga"
+    },
+    {
+      "values": "Pinukpuk, Kalinga",
+      "label": "Pinukpuk, Kalinga"
+    },
+    {
+      "values": "Rizal, Kalinga",
+      "label": "Rizal, Kalinga"
+    },
+    {
+      "values": "Tanudan, Kalinga",
+      "label": "Tanudan, Kalinga"
+    },
+    {
+      "values": "Tinglayan, Kalinga",
+      "label": "Tinglayan, Kalinga"
+    },
+    {
+      "values": "San Fernando City, La Union",
+      "label": "San Fernando City, La Union"
+    },
+    {
+      "values": "Agoo, La Union",
+      "label": "Agoo, La Union"
+    },
+    {
+      "values": "Aringay, La Union",
+      "label": "Aringay, La Union"
+    },
+    {
+      "values": "Bacnotan, La Union",
+      "label": "Bacnotan, La Union"
+    },
+    {
+      "values": "Bagulin, La Union",
+      "label": "Bagulin, La Union"
+    },
+    {
+      "values": "Balaoan, La Union",
+      "label": "Balaoan, La Union"
+    },
+    {
+      "values": "Bangar, La Union",
+      "label": "Bangar, La Union"
+    },
+    {
+      "values": "Bauang, La Union",
+      "label": "Bauang, La Union"
+    },
+    {
+      "values": "Burgos, La Union",
+      "label": "Burgos, La Union"
+    },
+    {
+      "values": "Caba, La Union",
+      "label": "Caba, La Union"
+    },
+    {
+      "values": "Luna, La Union",
+      "label": "Luna, La Union"
+    },
+    {
+      "values": "Naguilian, La Union",
+      "label": "Naguilian, La Union"
+    },
+    {
+      "values": "Pugo, La Union",
+      "label": "Pugo, La Union"
+    },
+    {
+      "values": "Rosario, La Union",
+      "label": "Rosario, La Union"
+    },
+    {
+      "values": "San Gabriel, La Union",
+      "label": "San Gabriel, La Union"
+    },
+    {
+      "values": "San Juan, La Union",
+      "label": "San Juan, La Union"
+    },
+    {
+      "values": "Santo Tomas, La Union",
+      "label": "Santo Tomas, La Union"
+    },
+    {
+      "values": "Santol, La Union",
+      "label": "Santol, La Union"
+    },
+    {
+      "values": "Sudipen, La Union",
+      "label": "Sudipen, La Union"
+    },
+    {
+      "values": "Tubao, La Union",
+      "label": "Tubao, La Union"
+    },
+    {
+      "values": "Biñan City, Laguna",
+      "label": "Biñan City, Laguna"
+    },
+    {
+      "values": "Calamba City, Laguna",
+      "label": "Calamba City, Laguna"
+    },
+    {
+      "values": "San Pablo City, Laguna",
+      "label": "San Pablo City, Laguna"
+    },
+    {
+      "values": "Santa Rosa City, Laguna",
+      "label": "Santa Rosa City, Laguna"
+    },
+    {
+      "values": "Alaminos, Laguna",
+      "label": "Alaminos, Laguna"
+    },
+    {
+      "values": "Bay, Laguna",
+      "label": "Bay, Laguna"
+    },
+    {
+      "values": "Cabuyao, Laguna",
+      "label": "Cabuyao, Laguna"
+    },
+    {
+      "values": "Calauan, Laguna",
+      "label": "Calauan, Laguna"
+    },
+    {
+      "values": "Cavinti, Laguna",
+      "label": "Cavinti, Laguna"
+    },
+    {
+      "values": "Famy, Laguna",
+      "label": "Famy, Laguna"
+    },
+    {
+      "values": "Kalayaan, Laguna",
+      "label": "Kalayaan, Laguna"
+    },
+    {
+      "values": "Liliw, Laguna",
+      "label": "Liliw, Laguna"
+    },
+    {
+      "values": "Los Baños, Laguna",
+      "label": "Los Baños, Laguna"
+    },
+    {
+      "values": "Luisiana, Laguna",
+      "label": "Luisiana, Laguna"
+    },
+    {
+      "values": "Lumban, Laguna",
+      "label": "Lumban, Laguna"
+    },
+    {
+      "values": "Mabitac, Laguna",
+      "label": "Mabitac, Laguna"
+    },
+    {
+      "values": "Magdalena, Laguna",
+      "label": "Magdalena, Laguna"
+    },
+    {
+      "values": "Majayjay, Laguna",
+      "label": "Majayjay, Laguna"
+    },
+    {
+      "values": "Nagcarlan, Laguna",
+      "label": "Nagcarlan, Laguna"
+    },
+    {
+      "values": "Paete, Laguna",
+      "label": "Paete, Laguna"
+    },
+    {
+      "values": "Pagsanjan, Laguna",
+      "label": "Pagsanjan, Laguna"
+    },
+    {
+      "values": "Pakil, Laguna",
+      "label": "Pakil, Laguna"
+    },
+    {
+      "values": "Pangil, Laguna",
+      "label": "Pangil, Laguna"
+    },
+    {
+      "values": "Pila, Laguna",
+      "label": "Pila, Laguna"
+    },
+    {
+      "values": "Rizal, Laguna",
+      "label": "Rizal, Laguna"
+    },
+    {
+      "values": "San Pedro, Laguna",
+      "label": "San Pedro, Laguna"
+    },
+    {
+      "values": "Santa Cruz, Laguna",
+      "label": "Santa Cruz, Laguna"
+    },
+    {
+      "values": "Santa Maria, Laguna",
+      "label": "Santa Maria, Laguna"
+    },
+    {
+      "values": "Siniloan, Laguna",
+      "label": "Siniloan, Laguna"
+    },
+    {
+      "values": "Victoria, Laguna",
+      "label": "Victoria, Laguna"
+    },
+    {
+      "values": "Iligan City, Lanao del Norte",
+      "label": "Iligan City, Lanao del Norte"
+    },
+    {
+      "values": "Bacolod, Lanao del Norte",
+      "label": "Bacolod, Lanao del Norte"
+    },
+    {
+      "values": "Baloi, Lanao del Norte",
+      "label": "Baloi, Lanao del Norte"
+    },
+    {
+      "values": "Baroy, Lanao del Norte",
+      "label": "Baroy, Lanao del Norte"
+    },
+    {
+      "values": "Kapatagan, Lanao del Norte",
+      "label": "Kapatagan, Lanao del Norte"
+    },
+    {
+      "values": "Kauswagan, Lanao del Norte",
+      "label": "Kauswagan, Lanao del Norte"
+    },
+    {
+      "values": "Kolambugan, Lanao del Norte",
+      "label": "Kolambugan, Lanao del Norte"
+    },
+    {
+      "values": "Lala, Lanao del Norte",
+      "label": "Lala, Lanao del Norte"
+    },
+    {
+      "values": "Linamon, Lanao del Norte",
+      "label": "Linamon, Lanao del Norte"
+    },
+    {
+      "values": "Magsaysay, Lanao del Norte",
+      "label": "Magsaysay, Lanao del Norte"
+    },
+    {
+      "values": "Maigo, Lanao del Norte",
+      "label": "Maigo, Lanao del Norte"
+    },
+    {
+      "values": "Matungao, Lanao del Norte",
+      "label": "Matungao, Lanao del Norte"
+    },
+    {
+      "values": "Munai, Lanao del Norte",
+      "label": "Munai, Lanao del Norte"
+    },
+    {
+      "values": "Nunungan, Lanao del Norte",
+      "label": "Nunungan, Lanao del Norte"
+    },
+    {
+      "values": "Pantao Ragat, Lanao del Norte",
+      "label": "Pantao Ragat, Lanao del Norte"
+    },
+    {
+      "values": "Pantar, Lanao del Norte",
+      "label": "Pantar, Lanao del Norte"
+    },
+    {
+      "values": "Poona Piagapo, Lanao del Norte",
+      "label": "Poona Piagapo, Lanao del Norte"
+    },
+    {
+      "values": "Salvador, Lanao del Norte",
+      "label": "Salvador, Lanao del Norte"
+    },
+    {
+      "values": "Sapad, Lanao del Norte",
+      "label": "Sapad, Lanao del Norte"
+    },
+    {
+      "values": "Sultan Naga Dimaporo, Lanao del Norte",
+      "label": "Sultan Naga Dimaporo, Lanao del Norte"
+    },
+    {
+      "values": "Tagoloan, Lanao del Norte",
+      "label": "Tagoloan, Lanao del Norte"
+    },
+    {
+      "values": "Tangcal, Lanao del Norte",
+      "label": "Tangcal, Lanao del Norte"
+    },
+    {
+      "values": "Tubod, Lanao del Norte",
+      "label": "Tubod, Lanao del Norte"
+    },
+    {
+      "values": "Marawi City, Lanao del Sur",
+      "label": "Marawi City, Lanao del Sur"
+    },
+    {
+      "values": "Bacolod-Kalawi, Lanao del Sur",
+      "label": "Bacolod-Kalawi, Lanao del Sur"
+    },
+    {
+      "values": "Balabagan, Lanao del Sur",
+      "label": "Balabagan, Lanao del Sur"
+    },
+    {
+      "values": "Balindong, Lanao del Sur",
+      "label": "Balindong, Lanao del Sur"
+    },
+    {
+      "values": "Bayang, Lanao del Sur",
+      "label": "Bayang, Lanao del Sur"
+    },
+    {
+      "values": "Binidayan, Lanao del Sur",
+      "label": "Binidayan, Lanao del Sur"
+    },
+    {
+      "values": "Buadiposo-Buntong, Lanao del Sur",
+      "label": "Buadiposo-Buntong, Lanao del Sur"
+    },
+    {
+      "values": "Bubong, Lanao del Sur",
+      "label": "Bubong, Lanao del Sur"
+    },
+    {
+      "values": "Bumbaran, Lanao del Sur",
+      "label": "Bumbaran, Lanao del Sur"
+    },
+    {
+      "values": "Butig, Lanao del Sur",
+      "label": "Butig, Lanao del Sur"
+    },
+    {
+      "values": "Calanogas, Lanao del Sur",
+      "label": "Calanogas, Lanao del Sur"
+    },
+    {
+      "values": "Ditsaan-Ramain, Lanao del Sur",
+      "label": "Ditsaan-Ramain, Lanao del Sur"
+    },
+    {
+      "values": "Ganassi, Lanao del Sur",
+      "label": "Ganassi, Lanao del Sur"
+    },
+    {
+      "values": "Kapai, Lanao del Sur",
+      "label": "Kapai, Lanao del Sur"
+    },
+    {
+      "values": "Kapatagan, Lanao del Sur",
+      "label": "Kapatagan, Lanao del Sur"
+    },
+    {
+      "values": "Lumba-Bayabao, Lanao del Sur",
+      "label": "Lumba-Bayabao, Lanao del Sur"
+    },
+    {
+      "values": "Lumbaca-Unayan, Lanao del Sur",
+      "label": "Lumbaca-Unayan, Lanao del Sur"
+    },
+    {
+      "values": "Lumbatan, Lanao del Sur",
+      "label": "Lumbatan, Lanao del Sur"
+    },
+    {
+      "values": "Lumbayanague, Lanao del Sur",
+      "label": "Lumbayanague, Lanao del Sur"
+    },
+    {
+      "values": "Madalum, Lanao del Sur",
+      "label": "Madalum, Lanao del Sur"
+    },
+    {
+      "values": "Madamba, Lanao del Sur",
+      "label": "Madamba, Lanao del Sur"
+    },
+    {
+      "values": "Maguing, Lanao del Sur",
+      "label": "Maguing, Lanao del Sur"
+    },
+    {
+      "values": "Malabang, Lanao del Sur",
+      "label": "Malabang, Lanao del Sur"
+    },
+    {
+      "values": "Marantao, Lanao del Sur",
+      "label": "Marantao, Lanao del Sur"
+    },
+    {
+      "values": "Marogong, Lanao del Sur",
+      "label": "Marogong, Lanao del Sur"
+    },
+    {
+      "values": "Masiu, Lanao del Sur",
+      "label": "Masiu, Lanao del Sur"
+    },
+    {
+      "values": "Mulondo, Lanao del Sur",
+      "label": "Mulondo, Lanao del Sur"
+    },
+    {
+      "values": "Pagayawan, Lanao del Sur",
+      "label": "Pagayawan, Lanao del Sur"
+    },
+    {
+      "values": "Piagapo, Lanao del Sur",
+      "label": "Piagapo, Lanao del Sur"
+    },
+    {
+      "values": "Poona Bayabao, Lanao del Sur",
+      "label": "Poona Bayabao, Lanao del Sur"
+    },
+    {
+      "values": "Pualas, Lanao del Sur",
+      "label": "Pualas, Lanao del Sur"
+    },
+    {
+      "values": "Saguiaran, Lanao del Sur",
+      "label": "Saguiaran, Lanao del Sur"
+    },
+    {
+      "values": "Sultan Dumalondong, Lanao del Sur",
+      "label": "Sultan Dumalondong, Lanao del Sur"
+    },
+    {
+      "values": "Picong, Lanao del Sur",
+      "label": "Picong, Lanao del Sur"
+    },
+    {
+      "values": "Tagoloan II, Lanao del Sur",
+      "label": "Tagoloan II, Lanao del Sur"
+    },
+    {
+      "values": "Tamparan, Lanao del Sur",
+      "label": "Tamparan, Lanao del Sur"
+    },
+    {
+      "values": "Taraka, Lanao del Sur",
+      "label": "Taraka, Lanao del Sur"
+    },
+    {
+      "values": "Tubaran, Lanao del Sur",
+      "label": "Tubaran, Lanao del Sur"
+    },
+    {
+      "values": "Tugaya, Lanao del Sur",
+      "label": "Tugaya, Lanao del Sur"
+    },
+    {
+      "values": "Wao, Lanao del Sur",
+      "label": "Wao, Lanao del Sur"
+    },
+    {
+      "values": "Ormoc City, Leyte",
+      "label": "Ormoc City, Leyte"
+    },
+    {
+      "values": "Tacloban City, Leyte",
+      "label": "Tacloban City, Leyte"
+    },
+    {
+      "values": "Abuyog, Leyte",
+      "label": "Abuyog, Leyte"
+    },
+    {
+      "values": "Alangalang, Leyte",
+      "label": "Alangalang, Leyte"
+    },
+    {
+      "values": "Albuera, Leyte",
+      "label": "Albuera, Leyte"
+    },
+    {
+      "values": "Babatngon, Leyte",
+      "label": "Babatngon, Leyte"
+    },
+    {
+      "values": "Barugo, Leyte",
+      "label": "Barugo, Leyte"
+    },
+    {
+      "values": "Bato, Leyte",
+      "label": "Bato, Leyte"
+    },
+    {
+      "values": "Baybay, Leyte",
+      "label": "Baybay, Leyte"
+    },
+    {
+      "values": "Burauen, Leyte",
+      "label": "Burauen, Leyte"
+    },
+    {
+      "values": "Calubian, Leyte",
+      "label": "Calubian, Leyte"
+    },
+    {
+      "values": "Capoocan, Leyte",
+      "label": "Capoocan, Leyte"
+    },
+    {
+      "values": "Carigara, Leyte",
+      "label": "Carigara, Leyte"
+    },
+    {
+      "values": "Dagami, Leyte",
+      "label": "Dagami, Leyte"
+    },
+    {
+      "values": "Dulag, Leyte",
+      "label": "Dulag, Leyte"
+    },
+    {
+      "values": "Hilongos, Leyte",
+      "label": "Hilongos, Leyte"
+    },
+    {
+      "values": "Hindang, Leyte",
+      "label": "Hindang, Leyte"
+    },
+    {
+      "values": "Inopacan, Leyte",
+      "label": "Inopacan, Leyte"
+    },
+    {
+      "values": "Isabel, Leyte",
+      "label": "Isabel, Leyte"
+    },
+    {
+      "values": "Jaro, Leyte",
+      "label": "Jaro, Leyte"
+    },
+    {
+      "values": "Javier, Leyte",
+      "label": "Javier, Leyte"
+    },
+    {
+      "values": "Julita, Leyte",
+      "label": "Julita, Leyte"
+    },
+    {
+      "values": "Kananga, Leyte",
+      "label": "Kananga, Leyte"
+    },
+    {
+      "values": "La Paz, Leyte",
+      "label": "La Paz, Leyte"
+    },
+    {
+      "values": "Leyte, Leyte",
+      "label": "Leyte, Leyte"
+    },
+    {
+      "values": "Liloan, Leyte",
+      "label": "Liloan, Leyte"
+    },
+    {
+      "values": "MacArthur, Leyte",
+      "label": "MacArthur, Leyte"
+    },
+    {
+      "values": "Mahaplag, Leyte",
+      "label": "Mahaplag, Leyte"
+    },
+    {
+      "values": "Matag-ob, Leyte",
+      "label": "Matag-ob, Leyte"
+    },
+    {
+      "values": "Matalom, Leyte",
+      "label": "Matalom, Leyte"
+    },
+    {
+      "values": "Mayorga, Leyte",
+      "label": "Mayorga, Leyte"
+    },
+    {
+      "values": "Merida, Leyte",
+      "label": "Merida, Leyte"
+    },
+    {
+      "values": "Palo, Leyte",
+      "label": "Palo, Leyte"
+    },
+    {
+      "values": "Palompon, Leyte",
+      "label": "Palompon, Leyte"
+    },
+    {
+      "values": "Pastrana, Leyte",
+      "label": "Pastrana, Leyte"
+    },
+    {
+      "values": "San Isidro, Leyte",
+      "label": "San Isidro, Leyte"
+    },
+    {
+      "values": "San Miguel, Leyte",
+      "label": "San Miguel, Leyte"
+    },
+    {
+      "values": "Santa Fe, Leyte",
+      "label": "Santa Fe, Leyte"
+    },
+    {
+      "values": "Sogod, Leyte",
+      "label": "Sogod, Leyte"
+    },
+    {
+      "values": "Tabango, Leyte",
+      "label": "Tabango, Leyte"
+    },
+    {
+      "values": "Tabontabon, Leyte",
+      "label": "Tabontabon, Leyte"
+    },
+    {
+      "values": "Tanauan, Leyte",
+      "label": "Tanauan, Leyte"
+    },
+    {
+      "values": "Tolosa, Leyte",
+      "label": "Tolosa, Leyte"
+    },
+    {
+      "values": "Tunga, Leyte",
+      "label": "Tunga, Leyte"
+    },
+    {
+      "values": "Villaba, Leyte",
+      "label": "Villaba, Leyte"
+    },
+    {
+      "values": "Cotabato City, Maguindanao",
+      "label": "Cotabato City, Maguindanao"
+    },
+    {
+      "values": "Ampatuan, Maguindanao",
+      "label": "Ampatuan, Maguindanao"
+    },
+    {
+      "values": "Barira, Maguindanao",
+      "label": "Barira, Maguindanao"
+    },
+    {
+      "values": "Buldon, Maguindanao",
+      "label": "Buldon, Maguindanao"
+    },
+    {
+      "values": "Buluan, Maguindanao",
+      "label": "Buluan, Maguindanao"
+    },
+    {
+      "values": "Datu Abdullah Sangki, Maguindanao",
+      "label": "Datu Abdullah Sangki, Maguindanao"
+    },
+    {
+      "values": "Datu Anggal Midtimbang, Maguindanao",
+      "label": "Datu Anggal Midtimbang, Maguindanao"
+    },
+    {
+      "values": "Datu Blah T. Sinsuat, Maguindanao",
+      "label": "Datu Blah T. Sinsuat, Maguindanao"
+    },
+    {
+      "values": "Datu Hoffer Ampatuan, Maguindanao",
+      "label": "Datu Hoffer Ampatuan, Maguindanao"
+    },
+    {
+      "values": "Datu Montawal, Maguindanao",
+      "label": "Datu Montawal, Maguindanao"
+    },
+    {
+      "values": "Datu Odin Sinsuat, Maguindanao",
+      "label": "Datu Odin Sinsuat, Maguindanao"
+    },
+    {
+      "values": "Datu Paglas, Maguindanao",
+      "label": "Datu Paglas, Maguindanao"
+    },
+    {
+      "values": "Datu Piang, Maguindanao",
+      "label": "Datu Piang, Maguindanao"
+    },
+    {
+      "values": "Datu Salibo, Maguindanao",
+      "label": "Datu Salibo, Maguindanao"
+    },
+    {
+      "values": "Datu Saudi-Ampatuan, Maguindanao",
+      "label": "Datu Saudi-Ampatuan, Maguindanao"
+    },
+    {
+      "values": "Datu Unsay, Maguindanao",
+      "label": "Datu Unsay, Maguindanao"
+    },
+    {
+      "values": "General Salipada K. Pendatun, Maguindanao",
+      "label": "General Salipada K. Pendatun, Maguindanao"
+    },
+    {
+      "values": "Guindulungan, Maguindanao",
+      "label": "Guindulungan, Maguindanao"
+    },
+    {
+      "values": "Kabuntalan, Maguindanao",
+      "label": "Kabuntalan, Maguindanao"
+    },
+    {
+      "values": "Mamasapano, Maguindanao",
+      "label": "Mamasapano, Maguindanao"
+    },
+    {
+      "values": "Mangudadatu, Maguindanao",
+      "label": "Mangudadatu, Maguindanao"
+    },
+    {
+      "values": "Matanog, Maguindanao",
+      "label": "Matanog, Maguindanao"
+    },
+    {
+      "values": "Northern Kabuntalan, Maguindanao",
+      "label": "Northern Kabuntalan, Maguindanao"
+    },
+    {
+      "values": "Pagalungan, Maguindanao",
+      "label": "Pagalungan, Maguindanao"
+    },
+    {
+      "values": "Paglat, Maguindanao",
+      "label": "Paglat, Maguindanao"
+    },
+    {
+      "values": "Pandag, Maguindanao",
+      "label": "Pandag, Maguindanao"
+    },
+    {
+      "values": "Parang, Maguindanao",
+      "label": "Parang, Maguindanao"
+    },
+    {
+      "values": "Rajah Buayan, Maguindanao",
+      "label": "Rajah Buayan, Maguindanao"
+    },
+    {
+      "values": "Shariff Aguak, Maguindanao",
+      "label": "Shariff Aguak, Maguindanao"
+    },
+    {
+      "values": "Shariff Saydona Mustapha, Maguindanao",
+      "label": "Shariff Saydona Mustapha, Maguindanao"
+    },
+    {
+      "values": "South Upi, Maguindanao",
+      "label": "South Upi, Maguindanao"
+    },
+    {
+      "values": "Sultan Kudarat, Maguindanao",
+      "label": "Sultan Kudarat, Maguindanao"
+    },
+    {
+      "values": "Sultan Mastura, Maguindanao",
+      "label": "Sultan Mastura, Maguindanao"
+    },
+    {
+      "values": "Sultan sa Barongis, Maguindanao",
+      "label": "Sultan sa Barongis, Maguindanao"
+    },
+    {
+      "values": "Talayan, Maguindanao",
+      "label": "Talayan, Maguindanao"
+    },
+    {
+      "values": "Talitay, Maguindanao",
+      "label": "Talitay, Maguindanao"
+    },
+    {
+      "values": "Upi, Maguindanao",
+      "label": "Upi, Maguindanao"
+    },
+    {
+      "values": "Boac, Marinduque",
+      "label": "Boac, Marinduque"
+    },
+    {
+      "values": "Buenavista, Marinduque",
+      "label": "Buenavista, Marinduque"
+    },
+    {
+      "values": "Gasan, Marinduque",
+      "label": "Gasan, Marinduque"
+    },
+    {
+      "values": "Mogpog, Marinduque",
+      "label": "Mogpog, Marinduque"
+    },
+    {
+      "values": "Santa Cruz, Marinduque",
+      "label": "Santa Cruz, Marinduque"
+    },
+    {
+      "values": "Torrijos, Marinduque",
+      "label": "Torrijos, Marinduque"
+    },
+    {
+      "values": "Masbate City, Masbate",
+      "label": "Masbate City, Masbate"
+    },
+    {
+      "values": "Aroroy, Masbate",
+      "label": "Aroroy, Masbate"
+    },
+    {
+      "values": "Baleno, Masbate",
+      "label": "Baleno, Masbate"
+    },
+    {
+      "values": "Balud, Masbate",
+      "label": "Balud, Masbate"
+    },
+    {
+      "values": "Batuan, Masbate",
+      "label": "Batuan, Masbate"
+    },
+    {
+      "values": "Cataingan, Masbate",
+      "label": "Cataingan, Masbate"
+    },
+    {
+      "values": "Cawayan, Masbate",
+      "label": "Cawayan, Masbate"
+    },
+    {
+      "values": "Claveria, Masbate",
+      "label": "Claveria, Masbate"
+    },
+    {
+      "values": "Dimasalang, Masbate",
+      "label": "Dimasalang, Masbate"
+    },
+    {
+      "values": "Esperanza, Masbate",
+      "label": "Esperanza, Masbate"
+    },
+    {
+      "values": "Mandaon, Masbate",
+      "label": "Mandaon, Masbate"
+    },
+    {
+      "values": "Milagros, Masbate",
+      "label": "Milagros, Masbate"
+    },
+    {
+      "values": "Mobo, Masbate",
+      "label": "Mobo, Masbate"
+    },
+    {
+      "values": "Monreal, Masbate",
+      "label": "Monreal, Masbate"
+    },
+    {
+      "values": "Palanas, Masbate",
+      "label": "Palanas, Masbate"
+    },
+    {
+      "values": "Pio V. Corpuz, Masbate",
+      "label": "Pio V. Corpuz, Masbate"
+    },
+    {
+      "values": "Placer, Masbate",
+      "label": "Placer, Masbate"
+    },
+    {
+      "values": "San Fernando, Masbate",
+      "label": "San Fernando, Masbate"
+    },
+    {
+      "values": "San Jacinto, Masbate",
+      "label": "San Jacinto, Masbate"
+    },
+    {
+      "values": "San Pascual, Masbate",
+      "label": "San Pascual, Masbate"
+    },
+    {
+      "values": "Uson, Masbate",
+      "label": "Uson, Masbate"
+    },
+    {
+      "values": "Caloocan, Metro Manila",
+      "label": "Caloocan, Metro Manila"
+    },
+    {
+      "values": "Las Piñas, Metro Manila",
+      "label": "Las Piñas, Metro Manila"
+    },
+    {
+      "values": "Makati, Metro Manila",
+      "label": "Makati, Metro Manila"
+    },
+    {
+      "values": "Malabon, Metro Manila",
+      "label": "Malabon, Metro Manila"
+    },
+    {
+      "values": "Mandaluyong, Metro Manila",
+      "label": "Mandaluyong, Metro Manila"
+    },
+    {
+      "values": "Manila, Metro Manila",
+      "label": "Manila, Metro Manila"
+    },
+    {
+      "values": "Marikina, Metro Manila",
+      "label": "Marikina, Metro Manila"
+    },
+    {
+      "values": "Muntinlupa, Metro Manila",
+      "label": "Muntinlupa, Metro Manila"
+    },
+    {
+      "values": "Navotas, Metro Manila",
+      "label": "Navotas, Metro Manila"
+    },
+    {
+      "values": "Parañaque, Metro Manila",
+      "label": "Parañaque, Metro Manila"
+    },
+    {
+      "values": "Pasay, Metro Manila",
+      "label": "Pasay, Metro Manila"
+    },
+    {
+      "values": "Pasig, Metro Manila",
+      "label": "Pasig, Metro Manila"
+    },
+    {
+      "values": "Quezon City, Metro Manila",
+      "label": "Quezon City, Metro Manila"
+    },
+    {
+      "values": "San Juan City, Metro Manila",
+      "label": "San Juan City, Metro Manila"
+    },
+    {
+      "values": "Taguig, Metro Manila",
+      "label": "Taguig, Metro Manila"
+    },
+    {
+      "values": "Valenzuela City, Metro Manila",
+      "label": "Valenzuela City, Metro Manila"
+    },
+    {
+      "values": "Pateros, Metro Manila",
+      "label": "Pateros, Metro Manila"
+    },
+    {
+      "values": "Oroquieta City, Misamis Occidental",
+      "label": "Oroquieta City, Misamis Occidental"
+    },
+    {
+      "values": "Ozamiz City, Misamis Occidental",
+      "label": "Ozamiz City, Misamis Occidental"
+    },
+    {
+      "values": "Tangub City, Misamis Occidental",
+      "label": "Tangub City, Misamis Occidental"
+    },
+    {
+      "values": "Aloran, Misamis Occidental",
+      "label": "Aloran, Misamis Occidental"
+    },
+    {
+      "values": "Baliangao, Misamis Occidental",
+      "label": "Baliangao, Misamis Occidental"
+    },
+    {
+      "values": "Bonifacio, Misamis Occidental",
+      "label": "Bonifacio, Misamis Occidental"
+    },
+    {
+      "values": "Calamba, Misamis Occidental",
+      "label": "Calamba, Misamis Occidental"
+    },
+    {
+      "values": "Clarin, Misamis Occidental",
+      "label": "Clarin, Misamis Occidental"
+    },
+    {
+      "values": "Concepcion, Misamis Occidental",
+      "label": "Concepcion, Misamis Occidental"
+    },
+    {
+      "values": "Don Victoriano Chiongbian, Misamis Occidental",
+      "label": "Don Victoriano Chiongbian, Misamis Occidental"
+    },
+    {
+      "values": "Jimenez, Misamis Occidental",
+      "label": "Jimenez, Misamis Occidental"
+    },
+    {
+      "values": "Lopez Jaena, Misamis Occidental",
+      "label": "Lopez Jaena, Misamis Occidental"
+    },
+    {
+      "values": "Panaon, Misamis Occidental",
+      "label": "Panaon, Misamis Occidental"
+    },
+    {
+      "values": "Plaridel, Misamis Occidental",
+      "label": "Plaridel, Misamis Occidental"
+    },
+    {
+      "values": "Sapang Dalaga, Misamis Occidental",
+      "label": "Sapang Dalaga, Misamis Occidental"
+    },
+    {
+      "values": "Sinacaban, Misamis Occidental",
+      "label": "Sinacaban, Misamis Occidental"
+    },
+    {
+      "values": "Tudela, Misamis Occidental",
+      "label": "Tudela, Misamis Occidental"
+    },
+    {
+      "values": "Cagayan de Oro, Misamis Oriental",
+      "label": "Cagayan de Oro, Misamis Oriental"
+    },
+    {
+      "values": "Gingoog City, Misamis Oriental",
+      "label": "Gingoog City, Misamis Oriental"
+    },
+    {
+      "values": "Alubijid, Misamis Oriental",
+      "label": "Alubijid, Misamis Oriental"
+    },
+    {
+      "values": "Balingasag, Misamis Oriental",
+      "label": "Balingasag, Misamis Oriental"
+    },
+    {
+      "values": "Balingoan, Misamis Oriental",
+      "label": "Balingoan, Misamis Oriental"
+    },
+    {
+      "values": "Binuangan, Misamis Oriental",
+      "label": "Binuangan, Misamis Oriental"
+    },
+    {
+      "values": "Claveria, Misamis Oriental",
+      "label": "Claveria, Misamis Oriental"
+    },
+    {
+      "values": "El Salvador, Misamis Oriental",
+      "label": "El Salvador, Misamis Oriental"
+    },
+    {
+      "values": "Gitagum, Misamis Oriental",
+      "label": "Gitagum, Misamis Oriental"
+    },
+    {
+      "values": "Initao, Misamis Oriental",
+      "label": "Initao, Misamis Oriental"
+    },
+    {
+      "values": "Jasaan, Misamis Oriental",
+      "label": "Jasaan, Misamis Oriental"
+    },
+    {
+      "values": "Kinoguitan, Misamis Oriental",
+      "label": "Kinoguitan, Misamis Oriental"
+    },
+    {
+      "values": "Lagonglong, Misamis Oriental",
+      "label": "Lagonglong, Misamis Oriental"
+    },
+    {
+      "values": "Laguindingan, Misamis Oriental",
+      "label": "Laguindingan, Misamis Oriental"
+    },
+    {
+      "values": "Libertad, Misamis Oriental",
+      "label": "Libertad, Misamis Oriental"
+    },
+    {
+      "values": "Lugait, Misamis Oriental",
+      "label": "Lugait, Misamis Oriental"
+    },
+    {
+      "values": "Magsaysay, Misamis Oriental",
+      "label": "Magsaysay, Misamis Oriental"
+    },
+    {
+      "values": "Manticao, Misamis Oriental",
+      "label": "Manticao, Misamis Oriental"
+    },
+    {
+      "values": "Medina, Misamis Oriental",
+      "label": "Medina, Misamis Oriental"
+    },
+    {
+      "values": "Naawan, Misamis Oriental",
+      "label": "Naawan, Misamis Oriental"
+    },
+    {
+      "values": "Opol, Misamis Oriental",
+      "label": "Opol, Misamis Oriental"
+    },
+    {
+      "values": "Salay, Misamis Oriental",
+      "label": "Salay, Misamis Oriental"
+    },
+    {
+      "values": "Sugbongcogon, Misamis Oriental",
+      "label": "Sugbongcogon, Misamis Oriental"
+    },
+    {
+      "values": "Tagoloan, Misamis Oriental",
+      "label": "Tagoloan, Misamis Oriental"
+    },
+    {
+      "values": "Talisayan, Misamis Oriental",
+      "label": "Talisayan, Misamis Oriental"
+    },
+    {
+      "values": "Villanueva, Misamis Oriental",
+      "label": "Villanueva, Misamis Oriental"
+    },
+    {
+      "values": "Barlig, Mountain Province",
+      "label": "Barlig, Mountain Province"
+    },
+    {
+      "values": "Bauko, Mountain Province",
+      "label": "Bauko, Mountain Province"
+    },
+    {
+      "values": "Besao, Mountain Province",
+      "label": "Besao, Mountain Province"
+    },
+    {
+      "values": "Bontoc, Mountain Province",
+      "label": "Bontoc, Mountain Province"
+    },
+    {
+      "values": "Natonin, Mountain Province",
+      "label": "Natonin, Mountain Province"
+    },
+    {
+      "values": "Paracelis, Mountain Province",
+      "label": "Paracelis, Mountain Province"
+    },
+    {
+      "values": "Sabangan, Mountain Province",
+      "label": "Sabangan, Mountain Province"
+    },
+    {
+      "values": "Sadanga, Mountain Province",
+      "label": "Sadanga, Mountain Province"
+    },
+    {
+      "values": "Sagada, Mountain Province",
+      "label": "Sagada, Mountain Province"
+    },
+    {
+      "values": "Tadian, Mountain Province",
+      "label": "Tadian, Mountain Province"
+    },
+    {
+      "values": "Bacolod City, Negros Occidental",
+      "label": "Bacolod City, Negros Occidental"
+    },
+    {
+      "values": "Bago City, Negros Occidental",
+      "label": "Bago City, Negros Occidental"
+    },
+    {
+      "values": "Cadiz City, Negros Occidental",
+      "label": "Cadiz City, Negros Occidental"
+    },
+    {
+      "values": "Escalante City, Negros Occidental",
+      "label": "Escalante City, Negros Occidental"
+    },
+    {
+      "values": "Himamaylan City, Negros Occidental",
+      "label": "Himamaylan City, Negros Occidental"
+    },
+    {
+      "values": "Kabankalan City, Negros Occidental",
+      "label": "Kabankalan City, Negros Occidental"
+    },
+    {
+      "values": "La Carlota City, Negros Occidental",
+      "label": "La Carlota City, Negros Occidental"
+    },
+    {
+      "values": "Sagay City, Negros Occidental",
+      "label": "Sagay City, Negros Occidental"
+    },
+    {
+      "values": "San Carlos City, Negros Occidental",
+      "label": "San Carlos City, Negros Occidental"
+    },
+    {
+      "values": "Silay City, Negros Occidental",
+      "label": "Silay City, Negros Occidental"
+    },
+    {
+      "values": "Sipalay City, Negros Occidental",
+      "label": "Sipalay City, Negros Occidental"
+    },
+    {
+      "values": "Talisay City, Negros Occidental",
+      "label": "Talisay City, Negros Occidental"
+    },
+    {
+      "values": "Victorias City, Negros Occidental",
+      "label": "Victorias City, Negros Occidental"
+    },
+    {
+      "values": "Binalbagan, Negros Occidental",
+      "label": "Binalbagan, Negros Occidental"
+    },
+    {
+      "values": "Calatrava, Negros Occidental",
+      "label": "Calatrava, Negros Occidental"
+    },
+    {
+      "values": "Candoni, Negros Occidental",
+      "label": "Candoni, Negros Occidental"
+    },
+    {
+      "values": "Cauayan, Negros Occidental",
+      "label": "Cauayan, Negros Occidental"
+    },
+    {
+      "values": "Enrique B. Magalona, Negros Occidental",
+      "label": "Enrique B. Magalona, Negros Occidental"
+    },
+    {
+      "values": "Hinigaran, Negros Occidental",
+      "label": "Hinigaran, Negros Occidental"
+    },
+    {
+      "values": "Hinoba-an, Negros Occidental",
+      "label": "Hinoba-an, Negros Occidental"
+    },
+    {
+      "values": "Ilog, Negros Occidental",
+      "label": "Ilog, Negros Occidental"
+    },
+    {
+      "values": "Isabela, Negros Occidental",
+      "label": "Isabela, Negros Occidental"
+    },
+    {
+      "values": "La Castellana, Negros Occidental",
+      "label": "La Castellana, Negros Occidental"
+    },
+    {
+      "values": "Manapla, Negros Occidental",
+      "label": "Manapla, Negros Occidental"
+    },
+    {
+      "values": "Moises Padilla, Negros Occidental",
+      "label": "Moises Padilla, Negros Occidental"
+    },
+    {
+      "values": "Murcia, Negros Occidental",
+      "label": "Murcia, Negros Occidental"
+    },
+    {
+      "values": "Pontevedra, Negros Occidental",
+      "label": "Pontevedra, Negros Occidental"
+    },
+    {
+      "values": "Pulupandan, Negros Occidental",
+      "label": "Pulupandan, Negros Occidental"
+    },
+    {
+      "values": "Salvador Benedicto, Negros Occidental",
+      "label": "Salvador Benedicto, Negros Occidental"
+    },
+    {
+      "values": "San Enrique, Negros Occidental",
+      "label": "San Enrique, Negros Occidental"
+    },
+    {
+      "values": "Toboso, Negros Occidental",
+      "label": "Toboso, Negros Occidental"
+    },
+    {
+      "values": "Valladolid, Negros Occidental",
+      "label": "Valladolid, Negros Occidental"
+    },
+    {
+      "values": "Bais City, Negros Oriental",
+      "label": "Bais City, Negros Oriental"
+    },
+    {
+      "values": "Bayawan City, Negros Oriental",
+      "label": "Bayawan City, Negros Oriental"
+    },
+    {
+      "values": "Canlaon City, Negros Oriental",
+      "label": "Canlaon City, Negros Oriental"
+    },
+    {
+      "values": "Guihulngan City, Negros Oriental",
+      "label": "Guihulngan City, Negros Oriental"
+    },
+    {
+      "values": "Dumaguete City, Negros Oriental",
+      "label": "Dumaguete City, Negros Oriental"
+    },
+    {
+      "values": "Tanjay City, Negros Oriental",
+      "label": "Tanjay City, Negros Oriental"
+    },
+    {
+      "values": "Amlan, Negros Oriental",
+      "label": "Amlan, Negros Oriental"
+    },
+    {
+      "values": "Ayungon, Negros Oriental",
+      "label": "Ayungon, Negros Oriental"
+    },
+    {
+      "values": "Bacong, Negros Oriental",
+      "label": "Bacong, Negros Oriental"
+    },
+    {
+      "values": "Basay, Negros Oriental",
+      "label": "Basay, Negros Oriental"
+    },
+    {
+      "values": "Bindoy, Negros Oriental",
+      "label": "Bindoy, Negros Oriental"
+    },
+    {
+      "values": "Dauin, Negros Oriental",
+      "label": "Dauin, Negros Oriental"
+    },
+    {
+      "values": "Jimalalud, Negros Oriental",
+      "label": "Jimalalud, Negros Oriental"
+    },
+    {
+      "values": "La Libertad, Negros Oriental",
+      "label": "La Libertad, Negros Oriental"
+    },
+    {
+      "values": "Mabinay, Negros Oriental",
+      "label": "Mabinay, Negros Oriental"
+    },
+    {
+      "values": "Manjuyod, Negros Oriental",
+      "label": "Manjuyod, Negros Oriental"
+    },
+    {
+      "values": "Pamplona, Negros Oriental",
+      "label": "Pamplona, Negros Oriental"
+    },
+    {
+      "values": "San Jose, Negros Oriental",
+      "label": "San Jose, Negros Oriental"
+    },
+    {
+      "values": "Santa Catalina, Negros Oriental",
+      "label": "Santa Catalina, Negros Oriental"
+    },
+    {
+      "values": "Siaton, Negros Oriental",
+      "label": "Siaton, Negros Oriental"
+    },
+    {
+      "values": "Sibulan, Negros Oriental",
+      "label": "Sibulan, Negros Oriental"
+    },
+    {
+      "values": "Tayasan, Negros Oriental",
+      "label": "Tayasan, Negros Oriental"
+    },
+    {
+      "values": "Valencia, Negros Oriental",
+      "label": "Valencia, Negros Oriental"
+    },
+    {
+      "values": "Vallehermoso, Negros Oriental",
+      "label": "Vallehermoso, Negros Oriental"
+    },
+    {
+      "values": "Zamboanguita, Negros Oriental",
+      "label": "Zamboanguita, Negros Oriental"
+    },
+    {
+      "values": "Allen, Northern Samar",
+      "label": "Allen, Northern Samar"
+    },
+    {
+      "values": "Biri, Northern Samar",
+      "label": "Biri, Northern Samar"
+    },
+    {
+      "values": "Bobon, Northern Samar",
+      "label": "Bobon, Northern Samar"
+    },
+    {
+      "values": "Capul, Northern Samar",
+      "label": "Capul, Northern Samar"
+    },
+    {
+      "values": "Catarman, Northern Samar",
+      "label": "Catarman, Northern Samar"
+    },
+    {
+      "values": "Catubig, Northern Samar",
+      "label": "Catubig, Northern Samar"
+    },
+    {
+      "values": "Gamay, Northern Samar",
+      "label": "Gamay, Northern Samar"
+    },
+    {
+      "values": "Laoang, Northern Samar",
+      "label": "Laoang, Northern Samar"
+    },
+    {
+      "values": "Lapinig, Northern Samar",
+      "label": "Lapinig, Northern Samar"
+    },
+    {
+      "values": "Las Navas, Northern Samar",
+      "label": "Las Navas, Northern Samar"
+    },
+    {
+      "values": "Lavezares, Northern Samar",
+      "label": "Lavezares, Northern Samar"
+    },
+    {
+      "values": "Lope de Vega, Northern Samar",
+      "label": "Lope de Vega, Northern Samar"
+    },
+    {
+      "values": "Mapanas, Northern Samar",
+      "label": "Mapanas, Northern Samar"
+    },
+    {
+      "values": "Mondragon, Northern Samar",
+      "label": "Mondragon, Northern Samar"
+    },
+    {
+      "values": "Palapag, Northern Samar",
+      "label": "Palapag, Northern Samar"
+    },
+    {
+      "values": "Pambujan, Northern Samar",
+      "label": "Pambujan, Northern Samar"
+    },
+    {
+      "values": "Rosario, Northern Samar",
+      "label": "Rosario, Northern Samar"
+    },
+    {
+      "values": "San Antonio, Northern Samar",
+      "label": "San Antonio, Northern Samar"
+    },
+    {
+      "values": "San Isidro, Northern Samar",
+      "label": "San Isidro, Northern Samar"
+    },
+    {
+      "values": "San Jose, Northern Samar",
+      "label": "San Jose, Northern Samar"
+    },
+    {
+      "values": "San Roque, Northern Samar",
+      "label": "San Roque, Northern Samar"
+    },
+    {
+      "values": "San Vicente, Northern Samar",
+      "label": "San Vicente, Northern Samar"
+    },
+    {
+      "values": "Silvino Lobos, Northern Samar",
+      "label": "Silvino Lobos, Northern Samar"
+    },
+    {
+      "values": "Victoria, Northern Samar",
+      "label": "Victoria, Northern Samar"
+    },
+    {
+      "values": "Cabanatuan City, Nueva Ecija",
+      "label": "Cabanatuan City, Nueva Ecija"
+    },
+    {
+      "values": "Gapan City, Nueva Ecija",
+      "label": "Gapan City, Nueva Ecija"
+    },
+    {
+      "values": "Science City of Muñoz, Nueva Ecija",
+      "label": "Science City of Muñoz, Nueva Ecija"
+    },
+    {
+      "values": "Palayan City, Nueva Ecija",
+      "label": "Palayan City, Nueva Ecija"
+    },
+    {
+      "values": "San Jose City, Nueva Ecija",
+      "label": "San Jose City, Nueva Ecija"
+    },
+    {
+      "values": "Aliaga, Nueva Ecija",
+      "label": "Aliaga, Nueva Ecija"
+    },
+    {
+      "values": "Bongabon, Nueva Ecija",
+      "label": "Bongabon, Nueva Ecija"
+    },
+    {
+      "values": "Cabiao, Nueva Ecija",
+      "label": "Cabiao, Nueva Ecija"
+    },
+    {
+      "values": "Carranglan, Nueva Ecija",
+      "label": "Carranglan, Nueva Ecija"
+    },
+    {
+      "values": "Cuyapo, Nueva Ecija",
+      "label": "Cuyapo, Nueva Ecija"
+    },
+    {
+      "values": "Gabaldon, Nueva Ecija",
+      "label": "Gabaldon, Nueva Ecija"
+    },
+    {
+      "values": "General Mamerto Natividad, Nueva Ecija",
+      "label": "General Mamerto Natividad, Nueva Ecija"
+    },
+    {
+      "values": "General Tinio, Nueva Ecija",
+      "label": "General Tinio, Nueva Ecija"
+    },
+    {
+      "values": "Guimba, Nueva Ecija",
+      "label": "Guimba, Nueva Ecija"
+    },
+    {
+      "values": "Jaen, Nueva Ecija",
+      "label": "Jaen, Nueva Ecija"
+    },
+    {
+      "values": "Laur, Nueva Ecija",
+      "label": "Laur, Nueva Ecija"
+    },
+    {
+      "values": "Licab, Nueva Ecija",
+      "label": "Licab, Nueva Ecija"
+    },
+    {
+      "values": "Llanera, Nueva Ecija",
+      "label": "Llanera, Nueva Ecija"
+    },
+    {
+      "values": "Lupao, Nueva Ecija",
+      "label": "Lupao, Nueva Ecija"
+    },
+    {
+      "values": "Nampicuan, Nueva Ecija",
+      "label": "Nampicuan, Nueva Ecija"
+    },
+    {
+      "values": "Pantabangan, Nueva Ecija",
+      "label": "Pantabangan, Nueva Ecija"
+    },
+    {
+      "values": "Peñaranda, Nueva Ecija",
+      "label": "Peñaranda, Nueva Ecija"
+    },
+    {
+      "values": "Quezon, Nueva Ecija",
+      "label": "Quezon, Nueva Ecija"
+    },
+    {
+      "values": "Rizal, Nueva Ecija",
+      "label": "Rizal, Nueva Ecija"
+    },
+    {
+      "values": "San Antonio, Nueva Ecija",
+      "label": "San Antonio, Nueva Ecija"
+    },
+    {
+      "values": "San Isidro, Nueva Ecija",
+      "label": "San Isidro, Nueva Ecija"
+    },
+    {
+      "values": "San Leonardo, Nueva Ecija",
+      "label": "San Leonardo, Nueva Ecija"
+    },
+    {
+      "values": "Santa Rosa, Nueva Ecija",
+      "label": "Santa Rosa, Nueva Ecija"
+    },
+    {
+      "values": "Santo Domingo, Nueva Ecija",
+      "label": "Santo Domingo, Nueva Ecija"
+    },
+    {
+      "values": "Talavera, Nueva Ecija",
+      "label": "Talavera, Nueva Ecija"
+    },
+    {
+      "values": "Talugtug, Nueva Ecija",
+      "label": "Talugtug, Nueva Ecija"
+    },
+    {
+      "values": "Zaragoza, Nueva Ecija",
+      "label": "Zaragoza, Nueva Ecija"
+    },
+    {
+      "values": "Alfonso Castaneda, Nueva Vizcaya",
+      "label": "Alfonso Castaneda, Nueva Vizcaya"
+    },
+    {
+      "values": "Ambaguio, Nueva Vizcaya",
+      "label": "Ambaguio, Nueva Vizcaya"
+    },
+    {
+      "values": "Aritao, Nueva Vizcaya",
+      "label": "Aritao, Nueva Vizcaya"
+    },
+    {
+      "values": "Bagabag, Nueva Vizcaya",
+      "label": "Bagabag, Nueva Vizcaya"
+    },
+    {
+      "values": "Bambang, Nueva Vizcaya",
+      "label": "Bambang, Nueva Vizcaya"
+    },
+    {
+      "values": "Bayombong, Nueva Vizcaya",
+      "label": "Bayombong, Nueva Vizcaya"
+    },
+    {
+      "values": "Diadi, Nueva Vizcaya",
+      "label": "Diadi, Nueva Vizcaya"
+    },
+    {
+      "values": "Dupax del Norte, Nueva Vizcaya",
+      "label": "Dupax del Norte, Nueva Vizcaya"
+    },
+    {
+      "values": "Dupax del Sur, Nueva Vizcaya",
+      "label": "Dupax del Sur, Nueva Vizcaya"
+    },
+    {
+      "values": "Kasibu, Nueva Vizcaya",
+      "label": "Kasibu, Nueva Vizcaya"
+    },
+    {
+      "values": "Kayapa, Nueva Vizcaya",
+      "label": "Kayapa, Nueva Vizcaya"
+    },
+    {
+      "values": "Quezon, Nueva Vizcaya",
+      "label": "Quezon, Nueva Vizcaya"
+    },
+    {
+      "values": "Santa Fe, Nueva Vizcaya",
+      "label": "Santa Fe, Nueva Vizcaya"
+    },
+    {
+      "values": "Solano, Nueva Vizcaya",
+      "label": "Solano, Nueva Vizcaya"
+    },
+    {
+      "values": "Villaverde, Nueva Vizcaya",
+      "label": "Villaverde, Nueva Vizcaya"
+    },
+    {
+      "values": "Abra de Ilog, Occidental Mindoro",
+      "label": "Abra de Ilog, Occidental Mindoro"
+    },
+    {
+      "values": "Calintaan, Occidental Mindoro",
+      "label": "Calintaan, Occidental Mindoro"
+    },
+    {
+      "values": "Looc, Occidental Mindoro",
+      "label": "Looc, Occidental Mindoro"
+    },
+    {
+      "values": "Lubang, Occidental Mindoro",
+      "label": "Lubang, Occidental Mindoro"
+    },
+    {
+      "values": "Magsaysay, Occidental Mindoro",
+      "label": "Magsaysay, Occidental Mindoro"
+    },
+    {
+      "values": "Mamburao, Occidental Mindoro",
+      "label": "Mamburao, Occidental Mindoro"
+    },
+    {
+      "values": "Paluan, Occidental Mindoro",
+      "label": "Paluan, Occidental Mindoro"
+    },
+    {
+      "values": "Rizal, Occidental Mindoro",
+      "label": "Rizal, Occidental Mindoro"
+    },
+    {
+      "values": "Sablayan, Occidental Mindoro",
+      "label": "Sablayan, Occidental Mindoro"
+    },
+    {
+      "values": "San Jose, Occidental Mindoro",
+      "label": "San Jose, Occidental Mindoro"
+    },
+    {
+      "values": "Santa Cruz, Occidental Mindoro",
+      "label": "Santa Cruz, Occidental Mindoro"
+    },
+    {
+      "values": "Calapan City, Oriental Mindoro",
+      "label": "Calapan City, Oriental Mindoro"
+    },
+    {
+      "values": "Baco, Oriental Mindoro",
+      "label": "Baco, Oriental Mindoro"
+    },
+    {
+      "values": "Bansud, Oriental Mindoro",
+      "label": "Bansud, Oriental Mindoro"
+    },
+    {
+      "values": "Bongabong, Oriental Mindoro",
+      "label": "Bongabong, Oriental Mindoro"
+    },
+    {
+      "values": "Bulalacao, Oriental Mindoro",
+      "label": "Bulalacao, Oriental Mindoro"
+    },
+    {
+      "values": "Gloria, Oriental Mindoro",
+      "label": "Gloria, Oriental Mindoro"
+    },
+    {
+      "values": "Mansalay, Oriental Mindoro",
+      "label": "Mansalay, Oriental Mindoro"
+    },
+    {
+      "values": "Naujan, Oriental Mindoro",
+      "label": "Naujan, Oriental Mindoro"
+    },
+    {
+      "values": "Pinamalayan, Oriental Mindoro",
+      "label": "Pinamalayan, Oriental Mindoro"
+    },
+    {
+      "values": "Pola, Oriental Mindoro",
+      "label": "Pola, Oriental Mindoro"
+    },
+    {
+      "values": "Puerto Galera, Oriental Mindoro",
+      "label": "Puerto Galera, Oriental Mindoro"
+    },
+    {
+      "values": "Roxas, Oriental Mindoro",
+      "label": "Roxas, Oriental Mindoro"
+    },
+    {
+      "values": "San Teodoro, Oriental Mindoro",
+      "label": "San Teodoro, Oriental Mindoro"
+    },
+    {
+      "values": "Socorro, Oriental Mindoro",
+      "label": "Socorro, Oriental Mindoro"
+    },
+    {
+      "values": "Victoria, Oriental Mindoro",
+      "label": "Victoria, Oriental Mindoro"
+    },
+    {
+      "values": "Puerto Princesa City, Palawan",
+      "label": "Puerto Princesa City, Palawan"
+    },
+    {
+      "values": "Aborlan, Palawan",
+      "label": "Aborlan, Palawan"
+    },
+    {
+      "values": "Agutaya, Palawan",
+      "label": "Agutaya, Palawan"
+    },
+    {
+      "values": "Araceli, Palawan",
+      "label": "Araceli, Palawan"
+    },
+    {
+      "values": "Balabac, Palawan",
+      "label": "Balabac, Palawan"
+    },
+    {
+      "values": "Bataraza, Palawan",
+      "label": "Bataraza, Palawan"
+    },
+    {
+      "values": "Brooke's Point, Palawan",
+      "label": "Brooke's Point, Palawan"
+    },
+    {
+      "values": "Busuanga, Palawan",
+      "label": "Busuanga, Palawan"
+    },
+    {
+      "values": "Cagayancillo, Palawan",
+      "label": "Cagayancillo, Palawan"
+    },
+    {
+      "values": "Coron, Palawan",
+      "label": "Coron, Palawan"
+    },
+    {
+      "values": "Culion, Palawan",
+      "label": "Culion, Palawan"
+    },
+    {
+      "values": "Cuyo, Palawan",
+      "label": "Cuyo, Palawan"
+    },
+    {
+      "values": "Dumaran, Palawan",
+      "label": "Dumaran, Palawan"
+    },
+    {
+      "values": "El Nido, Palawan",
+      "label": "El Nido, Palawan"
+    },
+    {
+      "values": "Kalayaan, Palawan",
+      "label": "Kalayaan, Palawan"
+    },
+    {
+      "values": "Linapacan, Palawan",
+      "label": "Linapacan, Palawan"
+    },
+    {
+      "values": "Magsaysay, Palawan",
+      "label": "Magsaysay, Palawan"
+    },
+    {
+      "values": "Narra, Palawan",
+      "label": "Narra, Palawan"
+    },
+    {
+      "values": "Quezon, Palawan",
+      "label": "Quezon, Palawan"
+    },
+    {
+      "values": "Rizal, Palawan",
+      "label": "Rizal, Palawan"
+    },
+    {
+      "values": "Roxas, Palawan",
+      "label": "Roxas, Palawan"
+    },
+    {
+      "values": "San Vicente, Palawan",
+      "label": "San Vicente, Palawan"
+    },
+    {
+      "values": "Sofronio Española, Palawan",
+      "label": "Sofronio Española, Palawan"
+    },
+    {
+      "values": "Taytay, Palawan",
+      "label": "Taytay, Palawan"
+    },
+    {
+      "values": "Angeles City, Pampanga",
+      "label": "Angeles City, Pampanga"
+    },
+    {
+      "values": "City of San Fernando, Pampanga",
+      "label": "City of San Fernando, Pampanga"
+    },
+    {
+      "values": "Apalit, Pampanga",
+      "label": "Apalit, Pampanga"
+    },
+    {
+      "values": "Arayat, Pampanga",
+      "label": "Arayat, Pampanga"
+    },
+    {
+      "values": "Bacolor, Pampanga",
+      "label": "Bacolor, Pampanga"
+    },
+    {
+      "values": "Candaba, Pampanga",
+      "label": "Candaba, Pampanga"
+    },
+    {
+      "values": "Floridablanca, Pampanga",
+      "label": "Floridablanca, Pampanga"
+    },
+    {
+      "values": "Guagua, Pampanga",
+      "label": "Guagua, Pampanga"
+    },
+    {
+      "values": "Lubao, Pampanga",
+      "label": "Lubao, Pampanga"
+    },
+    {
+      "values": "Mabalacat, Pampanga",
+      "label": "Mabalacat, Pampanga"
+    },
+    {
+      "values": "Macabebe, Pampanga",
+      "label": "Macabebe, Pampanga"
+    },
+    {
+      "values": "Magalang, Pampanga",
+      "label": "Magalang, Pampanga"
+    },
+    {
+      "values": "Masantol, Pampanga",
+      "label": "Masantol, Pampanga"
+    },
+    {
+      "values": "Mexico, Pampanga",
+      "label": "Mexico, Pampanga"
+    },
+    {
+      "values": "Minalin, Pampanga",
+      "label": "Minalin, Pampanga"
+    },
+    {
+      "values": "Porac, Pampanga",
+      "label": "Porac, Pampanga"
+    },
+    {
+      "values": "San Luis, Pampanga",
+      "label": "San Luis, Pampanga"
+    },
+    {
+      "values": "San Simon, Pampanga",
+      "label": "San Simon, Pampanga"
+    },
+    {
+      "values": "Santa Ana, Pampanga",
+      "label": "Santa Ana, Pampanga"
+    },
+    {
+      "values": "Santa Rita, Pampanga",
+      "label": "Santa Rita, Pampanga"
+    },
+    {
+      "values": "Santo Tomas, Pampanga",
+      "label": "Santo Tomas, Pampanga"
+    },
+    {
+      "values": "Sasmuan, Pampanga",
+      "label": "Sasmuan, Pampanga"
+    },
+    {
+      "values": "Alaminos City, Pangasinan",
+      "label": "Alaminos City, Pangasinan"
+    },
+    {
+      "values": "Dagupan City, Pangasinan",
+      "label": "Dagupan City, Pangasinan"
+    },
+    {
+      "values": "San Carlos City, Pangasinan",
+      "label": "San Carlos City, Pangasinan"
+    },
+    {
+      "values": "Urdaneta City, Pangasinan",
+      "label": "Urdaneta City, Pangasinan"
+    },
+    {
+      "values": "Agno, Pangasinan",
+      "label": "Agno, Pangasinan"
+    },
+    {
+      "values": "Aguilar, Pangasinan",
+      "label": "Aguilar, Pangasinan"
+    },
+    {
+      "values": "Alcala, Pangasinan",
+      "label": "Alcala, Pangasinan"
+    },
+    {
+      "values": "Anda, Pangasinan",
+      "label": "Anda, Pangasinan"
+    },
+    {
+      "values": "Asingan, Pangasinan",
+      "label": "Asingan, Pangasinan"
+    },
+    {
+      "values": "Balungao, Pangasinan",
+      "label": "Balungao, Pangasinan"
+    },
+    {
+      "values": "Bani, Pangasinan",
+      "label": "Bani, Pangasinan"
+    },
+    {
+      "values": "Basista, Pangasinan",
+      "label": "Basista, Pangasinan"
+    },
+    {
+      "values": "Bautista, Pangasinan",
+      "label": "Bautista, Pangasinan"
+    },
+    {
+      "values": "Bayambang, Pangasinan",
+      "label": "Bayambang, Pangasinan"
+    },
+    {
+      "values": "Binalonan, Pangasinan",
+      "label": "Binalonan, Pangasinan"
+    },
+    {
+      "values": "Binmaley, Pangasinan",
+      "label": "Binmaley, Pangasinan"
+    },
+    {
+      "values": "Bolinao, Pangasinan",
+      "label": "Bolinao, Pangasinan"
+    },
+    {
+      "values": "Bugallon, Pangasinan",
+      "label": "Bugallon, Pangasinan"
+    },
+    {
+      "values": "Burgos, Pangasinan",
+      "label": "Burgos, Pangasinan"
+    },
+    {
+      "values": "Calasiao, Pangasinan",
+      "label": "Calasiao, Pangasinan"
+    },
+    {
+      "values": "Dasol, Pangasinan",
+      "label": "Dasol, Pangasinan"
+    },
+    {
+      "values": "Infanta, Pangasinan",
+      "label": "Infanta, Pangasinan"
+    },
+    {
+      "values": "Labrador, Pangasinan",
+      "label": "Labrador, Pangasinan"
+    },
+    {
+      "values": "Laoac, Pangasinan",
+      "label": "Laoac, Pangasinan"
+    },
+    {
+      "values": "Lingayen, Pangasinan",
+      "label": "Lingayen, Pangasinan"
+    },
+    {
+      "values": "Mabini, Pangasinan",
+      "label": "Mabini, Pangasinan"
+    },
+    {
+      "values": "Malasiqui, Pangasinan",
+      "label": "Malasiqui, Pangasinan"
+    },
+    {
+      "values": "Manaoag, Pangasinan",
+      "label": "Manaoag, Pangasinan"
+    },
+    {
+      "values": "Mangaldan, Pangasinan",
+      "label": "Mangaldan, Pangasinan"
+    },
+    {
+      "values": "Mangatarem, Pangasinan",
+      "label": "Mangatarem, Pangasinan"
+    },
+    {
+      "values": "Mapandan, Pangasinan",
+      "label": "Mapandan, Pangasinan"
+    },
+    {
+      "values": "Natividad, Pangasinan",
+      "label": "Natividad, Pangasinan"
+    },
+    {
+      "values": "Pozzorubio, Pangasinan",
+      "label": "Pozzorubio, Pangasinan"
+    },
+    {
+      "values": "Rosales, Pangasinan",
+      "label": "Rosales, Pangasinan"
+    },
+    {
+      "values": "San Fabian, Pangasinan",
+      "label": "San Fabian, Pangasinan"
+    },
+    {
+      "values": "San Jacinto, Pangasinan",
+      "label": "San Jacinto, Pangasinan"
+    },
+    {
+      "values": "San Manuel, Pangasinan",
+      "label": "San Manuel, Pangasinan"
+    },
+    {
+      "values": "San Nicolas, Pangasinan",
+      "label": "San Nicolas, Pangasinan"
+    },
+    {
+      "values": "San Quintin, Pangasinan",
+      "label": "San Quintin, Pangasinan"
+    },
+    {
+      "values": "Santa Barbara, Pangasinan",
+      "label": "Santa Barbara, Pangasinan"
+    },
+    {
+      "values": "Santa Maria, Pangasinan",
+      "label": "Santa Maria, Pangasinan"
+    },
+    {
+      "values": "Santo Tomas, Pangasinan",
+      "label": "Santo Tomas, Pangasinan"
+    },
+    {
+      "values": "Sison, Pangasinan",
+      "label": "Sison, Pangasinan"
+    },
+    {
+      "values": "Sual, Pangasinan",
+      "label": "Sual, Pangasinan"
+    },
+    {
+      "values": "Tayug, Pangasinan",
+      "label": "Tayug, Pangasinan"
+    },
+    {
+      "values": "Umingan, Pangasinan",
+      "label": "Umingan, Pangasinan"
+    },
+    {
+      "values": "Urbiztondo, Pangasinan",
+      "label": "Urbiztondo, Pangasinan"
+    },
+    {
+      "values": "Villasis, Pangasinan",
+      "label": "Villasis, Pangasinan"
+    },
+    {
+      "values": "Lucena City, Quezon",
+      "label": "Lucena City, Quezon"
+    },
+    {
+      "values": "Tayabas City, Quezon",
+      "label": "Tayabas City, Quezon"
+    },
+    {
+      "values": "Agdangan, Quezon",
+      "label": "Agdangan, Quezon"
+    },
+    {
+      "values": "Alabat, Quezon",
+      "label": "Alabat, Quezon"
+    },
+    {
+      "values": "Atimonan, Quezon",
+      "label": "Atimonan, Quezon"
+    },
+    {
+      "values": "Buenavista, Quezon",
+      "label": "Buenavista, Quezon"
+    },
+    {
+      "values": "Burdeos, Quezon",
+      "label": "Burdeos, Quezon"
+    },
+    {
+      "values": "Calauag, Quezon",
+      "label": "Calauag, Quezon"
+    },
+    {
+      "values": "Candelaria, Quezon",
+      "label": "Candelaria, Quezon"
+    },
+    {
+      "values": "Catanauan, Quezon",
+      "label": "Catanauan, Quezon"
+    },
+    {
+      "values": "Dolores, Quezon",
+      "label": "Dolores, Quezon"
+    },
+    {
+      "values": "General Luna, Quezon",
+      "label": "General Luna, Quezon"
+    },
+    {
+      "values": "General Nakar, Quezon",
+      "label": "General Nakar, Quezon"
+    },
+    {
+      "values": "Guinayangan, Quezon",
+      "label": "Guinayangan, Quezon"
+    },
+    {
+      "values": "Gumaca, Quezon",
+      "label": "Gumaca, Quezon"
+    },
+    {
+      "values": "Infanta, Quezon",
+      "label": "Infanta, Quezon"
+    },
+    {
+      "values": "Jomalig, Quezon",
+      "label": "Jomalig, Quezon"
+    },
+    {
+      "values": "Lopez, Quezon",
+      "label": "Lopez, Quezon"
+    },
+    {
+      "values": "Lucban, Quezon",
+      "label": "Lucban, Quezon"
+    },
+    {
+      "values": "Macalelon, Quezon",
+      "label": "Macalelon, Quezon"
+    },
+    {
+      "values": "Mauban, Quezon",
+      "label": "Mauban, Quezon"
+    },
+    {
+      "values": "Mulanay, Quezon",
+      "label": "Mulanay, Quezon"
+    },
+    {
+      "values": "Padre Burgos, Quezon",
+      "label": "Padre Burgos, Quezon"
+    },
+    {
+      "values": "Pagbilao, Quezon",
+      "label": "Pagbilao, Quezon"
+    },
+    {
+      "values": "Panukulan, Quezon",
+      "label": "Panukulan, Quezon"
+    },
+    {
+      "values": "Patnanungan, Quezon",
+      "label": "Patnanungan, Quezon"
+    },
+    {
+      "values": "Perez, Quezon",
+      "label": "Perez, Quezon"
+    },
+    {
+      "values": "Pitogo, Quezon",
+      "label": "Pitogo, Quezon"
+    },
+    {
+      "values": "Plaridel, Quezon",
+      "label": "Plaridel, Quezon"
+    },
+    {
+      "values": "Polillo, Quezon",
+      "label": "Polillo, Quezon"
+    },
+    {
+      "values": "Quezon, Quezon",
+      "label": "Quezon, Quezon"
+    },
+    {
+      "values": "Real, Quezon",
+      "label": "Real, Quezon"
+    },
+    {
+      "values": "Sampaloc, Quezon",
+      "label": "Sampaloc, Quezon"
+    },
+    {
+      "values": "San Andres, Quezon",
+      "label": "San Andres, Quezon"
+    },
+    {
+      "values": "San Antonio, Quezon",
+      "label": "San Antonio, Quezon"
+    },
+    {
+      "values": "San Francisco, Quezon",
+      "label": "San Francisco, Quezon"
+    },
+    {
+      "values": "San Narciso, Quezon",
+      "label": "San Narciso, Quezon"
+    },
+    {
+      "values": "Sariaya, Quezon",
+      "label": "Sariaya, Quezon"
+    },
+    {
+      "values": "Tagkawayan, Quezon",
+      "label": "Tagkawayan, Quezon"
+    },
+    {
+      "values": "Tiaong, Quezon",
+      "label": "Tiaong, Quezon"
+    },
+    {
+      "values": "Unisan, Quezon",
+      "label": "Unisan, Quezon"
+    },
+    {
+      "values": "Aglipay, Quirino",
+      "label": "Aglipay, Quirino"
+    },
+    {
+      "values": "Cabarroguis, Quirino",
+      "label": "Cabarroguis, Quirino"
+    },
+    {
+      "values": "Diffun, Quirino",
+      "label": "Diffun, Quirino"
+    },
+    {
+      "values": "Maddela, Quirino",
+      "label": "Maddela, Quirino"
+    },
+    {
+      "values": "Nagtipunan, Quirino",
+      "label": "Nagtipunan, Quirino"
+    },
+    {
+      "values": "Saguday, Quirino",
+      "label": "Saguday, Quirino"
+    },
+    {
+      "values": "Antipolo City, Rizal",
+      "label": "Antipolo City, Rizal"
+    },
+    {
+      "values": "Angono, Rizal",
+      "label": "Angono, Rizal"
+    },
+    {
+      "values": "Baras, Rizal",
+      "label": "Baras, Rizal"
+    },
+    {
+      "values": "Binangonan, Rizal",
+      "label": "Binangonan, Rizal"
+    },
+    {
+      "values": "Cainta, Rizal",
+      "label": "Cainta, Rizal"
+    },
+    {
+      "values": "Cardona, Rizal",
+      "label": "Cardona, Rizal"
+    },
+    {
+      "values": "Jalajala, Rizal",
+      "label": "Jalajala, Rizal"
+    },
+    {
+      "values": "Morong, Rizal",
+      "label": "Morong, Rizal"
+    },
+    {
+      "values": "Pililla, Rizal",
+      "label": "Pililla, Rizal"
+    },
+    {
+      "values": "Rodriguez, Rizal",
+      "label": "Rodriguez, Rizal"
+    },
+    {
+      "values": "San Mateo, Rizal",
+      "label": "San Mateo, Rizal"
+    },
+    {
+      "values": "Tanay, Rizal",
+      "label": "Tanay, Rizal"
+    },
+    {
+      "values": "Taytay, Rizal",
+      "label": "Taytay, Rizal"
+    },
+    {
+      "values": "Teresa, Rizal",
+      "label": "Teresa, Rizal"
+    },
+    {
+      "values": "Alcantara, Romblon",
+      "label": "Alcantara, Romblon"
+    },
+    {
+      "values": "Banton, Romblon",
+      "label": "Banton, Romblon"
+    },
+    {
+      "values": "Cajidiocan, Romblon",
+      "label": "Cajidiocan, Romblon"
+    },
+    {
+      "values": "Calatrava, Romblon",
+      "label": "Calatrava, Romblon"
+    },
+    {
+      "values": "Concepcion, Romblon",
+      "label": "Concepcion, Romblon"
+    },
+    {
+      "values": "Corcuera, Romblon",
+      "label": "Corcuera, Romblon"
+    },
+    {
+      "values": "Ferrol, Romblon",
+      "label": "Ferrol, Romblon"
+    },
+    {
+      "values": "Looc, Romblon",
+      "label": "Looc, Romblon"
+    },
+    {
+      "values": "Magdiwang, Romblon",
+      "label": "Magdiwang, Romblon"
+    },
+    {
+      "values": "Odiongan, Romblon",
+      "label": "Odiongan, Romblon"
+    },
+    {
+      "values": "Romblon, Romblon",
+      "label": "Romblon, Romblon"
+    },
+    {
+      "values": "San Agustin, Romblon",
+      "label": "San Agustin, Romblon"
+    },
+    {
+      "values": "San Andres, Romblon",
+      "label": "San Andres, Romblon"
+    },
+    {
+      "values": "San Fernando, Romblon",
+      "label": "San Fernando, Romblon"
+    },
+    {
+      "values": "San Jose, Romblon",
+      "label": "San Jose, Romblon"
+    },
+    {
+      "values": "Santa Fe, Romblon",
+      "label": "Santa Fe, Romblon"
+    },
+    {
+      "values": "Santa Maria, Romblon",
+      "label": "Santa Maria, Romblon"
+    },
+    {
+      "values": "Calbayog City, Samar",
+      "label": "Calbayog City, Samar"
+    },
+    {
+      "values": "Catbalogan City, Samar",
+      "label": "Catbalogan City, Samar"
+    },
+    {
+      "values": "Almagro, Samar",
+      "label": "Almagro, Samar"
+    },
+    {
+      "values": "Basey, Samar",
+      "label": "Basey, Samar"
+    },
+    {
+      "values": "Calbiga, Samar",
+      "label": "Calbiga, Samar"
+    },
+    {
+      "values": "Daram, Samar",
+      "label": "Daram, Samar"
+    },
+    {
+      "values": "Gandara, Samar",
+      "label": "Gandara, Samar"
+    },
+    {
+      "values": "Hinabangan, Samar",
+      "label": "Hinabangan, Samar"
+    },
+    {
+      "values": "Jiabong, Samar",
+      "label": "Jiabong, Samar"
+    },
+    {
+      "values": "Marabut, Samar",
+      "label": "Marabut, Samar"
+    },
+    {
+      "values": "Matuguinao, Samar",
+      "label": "Matuguinao, Samar"
+    },
+    {
+      "values": "Motiong, Samar",
+      "label": "Motiong, Samar"
+    },
+    {
+      "values": "Pagsanghan, Samar",
+      "label": "Pagsanghan, Samar"
+    },
+    {
+      "values": "Paranas, Samar",
+      "label": "Paranas, Samar"
+    },
+    {
+      "values": "Pinabacdao, Samar",
+      "label": "Pinabacdao, Samar"
+    },
+    {
+      "values": "San Jorge, Samar",
+      "label": "San Jorge, Samar"
+    },
+    {
+      "values": "San Jose De Buan, Samar",
+      "label": "San Jose De Buan, Samar"
+    },
+    {
+      "values": "San Sebastian, Samar",
+      "label": "San Sebastian, Samar"
+    },
+    {
+      "values": "Santa Margarita, Samar",
+      "label": "Santa Margarita, Samar"
+    },
+    {
+      "values": "Santa Rita, Samar",
+      "label": "Santa Rita, Samar"
+    },
+    {
+      "values": "Santo Niño, Samar",
+      "label": "Santo Niño, Samar"
+    },
+    {
+      "values": "Tagapul-an, Samar",
+      "label": "Tagapul-an, Samar"
+    },
+    {
+      "values": "Talalora, Samar",
+      "label": "Talalora, Samar"
+    },
+    {
+      "values": "Tarangnan, Samar",
+      "label": "Tarangnan, Samar"
+    },
+    {
+      "values": "Villareal, Samar",
+      "label": "Villareal, Samar"
+    },
+    {
+      "values": "Zumarraga, Samar",
+      "label": "Zumarraga, Samar"
+    },
+    {
+      "values": "Alabel, Sarangani",
+      "label": "Alabel, Sarangani"
+    },
+    {
+      "values": "Glan, Sarangani",
+      "label": "Glan, Sarangani"
+    },
+    {
+      "values": "Kiamba, Sarangani",
+      "label": "Kiamba, Sarangani"
+    },
+    {
+      "values": "Maasim, Sarangani",
+      "label": "Maasim, Sarangani"
+    },
+    {
+      "values": "Maitum, Sarangani",
+      "label": "Maitum, Sarangani"
+    },
+    {
+      "values": "Malapatan, Sarangani",
+      "label": "Malapatan, Sarangani"
+    },
+    {
+      "values": "Malungon, Sarangani",
+      "label": "Malungon, Sarangani"
+    },
+    {
+      "values": "Enrique Villanueva, Siquijor",
+      "label": "Enrique Villanueva, Siquijor"
+    },
+    {
+      "values": "Larena, Siquijor",
+      "label": "Larena, Siquijor"
+    },
+    {
+      "values": "Lazi, Siquijor",
+      "label": "Lazi, Siquijor"
+    },
+    {
+      "values": "Maria, Siquijor",
+      "label": "Maria, Siquijor"
+    },
+    {
+      "values": "San Juan, Siquijor",
+      "label": "San Juan, Siquijor"
+    },
+    {
+      "values": "Siquijor, Siquijor",
+      "label": "Siquijor, Siquijor"
+    },
+    {
+      "values": "Sorsogon City, Sorsogon",
+      "label": "Sorsogon City, Sorsogon"
+    },
+    {
+      "values": "Barcelona, Sorsogon",
+      "label": "Barcelona, Sorsogon"
+    },
+    {
+      "values": "Bulan, Sorsogon",
+      "label": "Bulan, Sorsogon"
+    },
+    {
+      "values": "Bulusan, Sorsogon",
+      "label": "Bulusan, Sorsogon"
+    },
+    {
+      "values": "Casiguran, Sorsogon",
+      "label": "Casiguran, Sorsogon"
+    },
+    {
+      "values": "Castilla, Sorsogon",
+      "label": "Castilla, Sorsogon"
+    },
+    {
+      "values": "Donsol, Sorsogon",
+      "label": "Donsol, Sorsogon"
+    },
+    {
+      "values": "Gubat, Sorsogon",
+      "label": "Gubat, Sorsogon"
+    },
+    {
+      "values": "Irosin, Sorsogon",
+      "label": "Irosin, Sorsogon"
+    },
+    {
+      "values": "Juban, Sorsogon",
+      "label": "Juban, Sorsogon"
+    },
+    {
+      "values": "Magallanes, Sorsogon",
+      "label": "Magallanes, Sorsogon"
+    },
+    {
+      "values": "Matnog, Sorsogon",
+      "label": "Matnog, Sorsogon"
+    },
+    {
+      "values": "Pilar, Sorsogon",
+      "label": "Pilar, Sorsogon"
+    },
+    {
+      "values": "Prieto Diaz, Sorsogon",
+      "label": "Prieto Diaz, Sorsogon"
+    },
+    {
+      "values": "Santa Magdalena, Sorsogon",
+      "label": "Santa Magdalena, Sorsogon"
+    },
+    {
+      "values": "General Santos City, South Cotabato",
+      "label": "General Santos City, South Cotabato"
+    },
+    {
+      "values": "Koronadal City, South Cotabato",
+      "label": "Koronadal City, South Cotabato"
+    },
+    {
+      "values": "Banga, South Cotabato",
+      "label": "Banga, South Cotabato"
+    },
+    {
+      "values": "Lake Sebu, South Cotabato",
+      "label": "Lake Sebu, South Cotabato"
+    },
+    {
+      "values": "Norala, South Cotabato",
+      "label": "Norala, South Cotabato"
+    },
+    {
+      "values": "Polomolok, South Cotabato",
+      "label": "Polomolok, South Cotabato"
+    },
+    {
+      "values": "Santo Niño, South Cotabato",
+      "label": "Santo Niño, South Cotabato"
+    },
+    {
+      "values": "Surallah, South Cotabato",
+      "label": "Surallah, South Cotabato"
+    },
+    {
+      "values": "T'boli, South Cotabato",
+      "label": "T'boli, South Cotabato"
+    },
+    {
+      "values": "Tampakan, South Cotabato",
+      "label": "Tampakan, South Cotabato"
+    },
+    {
+      "values": "Tantangan, South Cotabato",
+      "label": "Tantangan, South Cotabato"
+    },
+    {
+      "values": "Tupi, South Cotabato",
+      "label": "Tupi, South Cotabato"
+    },
+    {
+      "values": "Maasin City, Southern Leyte",
+      "label": "Maasin City, Southern Leyte"
+    },
+    {
+      "values": "Anahawan, Southern Leyte",
+      "label": "Anahawan, Southern Leyte"
+    },
+    {
+      "values": "Bontoc, Southern Leyte",
+      "label": "Bontoc, Southern Leyte"
+    },
+    {
+      "values": "Hinunangan, Southern Leyte",
+      "label": "Hinunangan, Southern Leyte"
+    },
+    {
+      "values": "Hinundayan, Southern Leyte",
+      "label": "Hinundayan, Southern Leyte"
+    },
+    {
+      "values": "Libagon, Southern Leyte",
+      "label": "Libagon, Southern Leyte"
+    },
+    {
+      "values": "Liloan, Southern Leyte",
+      "label": "Liloan, Southern Leyte"
+    },
+    {
+      "values": "Limasawa, Southern Leyte",
+      "label": "Limasawa, Southern Leyte"
+    },
+    {
+      "values": "Macrohon, Southern Leyte",
+      "label": "Macrohon, Southern Leyte"
+    },
+    {
+      "values": "Malitbog, Southern Leyte",
+      "label": "Malitbog, Southern Leyte"
+    },
+    {
+      "values": "Padre Burgos, Southern Leyte",
+      "label": "Padre Burgos, Southern Leyte"
+    },
+    {
+      "values": "Pintuyan, Southern Leyte",
+      "label": "Pintuyan, Southern Leyte"
+    },
+    {
+      "values": "Saint Bernard, Southern Leyte",
+      "label": "Saint Bernard, Southern Leyte"
+    },
+    {
+      "values": "San Francisco, Southern Leyte",
+      "label": "San Francisco, Southern Leyte"
+    },
+    {
+      "values": "San Juan, Southern Leyte",
+      "label": "San Juan, Southern Leyte"
+    },
+    {
+      "values": "San Ricardo, Southern Leyte",
+      "label": "San Ricardo, Southern Leyte"
+    },
+    {
+      "values": "Silago, Southern Leyte",
+      "label": "Silago, Southern Leyte"
+    },
+    {
+      "values": "Sogod, Southern Leyte",
+      "label": "Sogod, Southern Leyte"
+    },
+    {
+      "values": "Tomas Oppus, Southern Leyte",
+      "label": "Tomas Oppus, Southern Leyte"
+    },
+    {
+      "values": "Tacurong City, Sultan Kudarat",
+      "label": "Tacurong City, Sultan Kudarat"
+    },
+    {
+      "values": "Bagumbayan, Sultan Kudarat",
+      "label": "Bagumbayan, Sultan Kudarat"
+    },
+    {
+      "values": "Columbio, Sultan Kudarat",
+      "label": "Columbio, Sultan Kudarat"
+    },
+    {
+      "values": "Esperanza, Sultan Kudarat",
+      "label": "Esperanza, Sultan Kudarat"
+    },
+    {
+      "values": "Isulan, Sultan Kudarat",
+      "label": "Isulan, Sultan Kudarat"
+    },
+    {
+      "values": "Kalamansig, Sultan Kudarat",
+      "label": "Kalamansig, Sultan Kudarat"
+    },
+    {
+      "values": "Lambayong, Sultan Kudarat",
+      "label": "Lambayong, Sultan Kudarat"
+    },
+    {
+      "values": "Lebak, Sultan Kudarat",
+      "label": "Lebak, Sultan Kudarat"
+    },
+    {
+      "values": "Lutayan, Sultan Kudarat",
+      "label": "Lutayan, Sultan Kudarat"
+    },
+    {
+      "values": "Palimbang, Sultan Kudarat",
+      "label": "Palimbang, Sultan Kudarat"
+    },
+    {
+      "values": "President Quirino, Sultan Kudarat",
+      "label": "President Quirino, Sultan Kudarat"
+    },
+    {
+      "values": "Senator Ninoy Aquino, Sultan Kudarat",
+      "label": "Senator Ninoy Aquino, Sultan Kudarat"
+    },
+    {
+      "values": "Banguingui, Sulu",
+      "label": "Banguingui, Sulu"
+    },
+    {
+      "values": "Hadji Panglima Tahil, Sulu",
+      "label": "Hadji Panglima Tahil, Sulu"
+    },
+    {
+      "values": "Indanan, Sulu",
+      "label": "Indanan, Sulu"
+    },
+    {
+      "values": "Jolo, Sulu",
+      "label": "Jolo, Sulu"
+    },
+    {
+      "values": "Kalingalan Caluang, Sulu",
+      "label": "Kalingalan Caluang, Sulu"
+    },
+    {
+      "values": "Lugus, Sulu",
+      "label": "Lugus, Sulu"
+    },
+    {
+      "values": "Luuk, Sulu",
+      "label": "Luuk, Sulu"
+    },
+    {
+      "values": "Maimbung, Sulu",
+      "label": "Maimbung, Sulu"
+    },
+    {
+      "values": "Old Panamao, Sulu",
+      "label": "Old Panamao, Sulu"
+    },
+    {
+      "values": "Omar, Sulu",
+      "label": "Omar, Sulu"
+    },
+    {
+      "values": "Pandami, Sulu",
+      "label": "Pandami, Sulu"
+    },
+    {
+      "values": "Panglima Estino, Sulu",
+      "label": "Panglima Estino, Sulu"
+    },
+    {
+      "values": "Pangutaran, Sulu",
+      "label": "Pangutaran, Sulu"
+    },
+    {
+      "values": "Parang, Sulu",
+      "label": "Parang, Sulu"
+    },
+    {
+      "values": "Pata, Sulu",
+      "label": "Pata, Sulu"
+    },
+    {
+      "values": "Patikul, Sulu",
+      "label": "Patikul, Sulu"
+    },
+    {
+      "values": "Siasi, Sulu",
+      "label": "Siasi, Sulu"
+    },
+    {
+      "values": "Talipao, Sulu",
+      "label": "Talipao, Sulu"
+    },
+    {
+      "values": "Tapul, Sulu",
+      "label": "Tapul, Sulu"
+    },
+    {
+      "values": "Surigao City, Surigao del Norte",
+      "label": "Surigao City, Surigao del Norte"
+    },
+    {
+      "values": "Alegria, Surigao del Norte",
+      "label": "Alegria, Surigao del Norte"
+    },
+    {
+      "values": "Bacuag, Surigao del Norte",
+      "label": "Bacuag, Surigao del Norte"
+    },
+    {
+      "values": "Basilisa, Surigao del Norte",
+      "label": "Basilisa, Surigao del Norte"
+    },
+    {
+      "values": "Burgos, Surigao del Norte",
+      "label": "Burgos, Surigao del Norte"
+    },
+    {
+      "values": "Cagdianao, Surigao del Norte",
+      "label": "Cagdianao, Surigao del Norte"
+    },
+    {
+      "values": "Claver, Surigao del Norte",
+      "label": "Claver, Surigao del Norte"
+    },
+    {
+      "values": "Dapa, Surigao del Norte",
+      "label": "Dapa, Surigao del Norte"
+    },
+    {
+      "values": "Del Carmen, Surigao del Norte",
+      "label": "Del Carmen, Surigao del Norte"
+    },
+    {
+      "values": "Dinagat, Surigao del Norte",
+      "label": "Dinagat, Surigao del Norte"
+    },
+    {
+      "values": "General Luna, Surigao del Norte",
+      "label": "General Luna, Surigao del Norte"
+    },
+    {
+      "values": "Gigaquit, Surigao del Norte",
+      "label": "Gigaquit, Surigao del Norte"
+    },
+    {
+      "values": "Libjo, Surigao del Norte",
+      "label": "Libjo, Surigao del Norte"
+    },
+    {
+      "values": "Loreto, Surigao del Norte",
+      "label": "Loreto, Surigao del Norte"
+    },
+    {
+      "values": "Mainit, Surigao del Norte",
+      "label": "Mainit, Surigao del Norte"
+    },
+    {
+      "values": "Malimono, Surigao del Norte",
+      "label": "Malimono, Surigao del Norte"
+    },
+    {
+      "values": "Pilar, Surigao del Norte",
+      "label": "Pilar, Surigao del Norte"
+    },
+    {
+      "values": "Placer, Surigao del Norte",
+      "label": "Placer, Surigao del Norte"
+    },
+    {
+      "values": "San Benito, Surigao del Norte",
+      "label": "San Benito, Surigao del Norte"
+    },
+    {
+      "values": "San Francisco, Surigao del Norte",
+      "label": "San Francisco, Surigao del Norte"
+    },
+    {
+      "values": "San Isidro, Surigao del Norte",
+      "label": "San Isidro, Surigao del Norte"
+    },
+    {
+      "values": "San Jose, Surigao del Norte",
+      "label": "San Jose, Surigao del Norte"
+    },
+    {
+      "values": "Santa Monica, Surigao del Norte",
+      "label": "Santa Monica, Surigao del Norte"
+    },
+    {
+      "values": "Sison, Surigao del Norte",
+      "label": "Sison, Surigao del Norte"
+    },
+    {
+      "values": "Socorro, Surigao del Norte",
+      "label": "Socorro, Surigao del Norte"
+    },
+    {
+      "values": "Tagana-an, Surigao del Norte",
+      "label": "Tagana-an, Surigao del Norte"
+    },
+    {
+      "values": "Tubajon, Surigao del Norte",
+      "label": "Tubajon, Surigao del Norte"
+    },
+    {
+      "values": "Tubod, Surigao del Norte",
+      "label": "Tubod, Surigao del Norte"
+    },
+    {
+      "values": "Bislig City, Surigao del Sur",
+      "label": "Bislig City, Surigao del Sur"
+    },
+    {
+      "values": "Tandag City, Surigao del Sur",
+      "label": "Tandag City, Surigao del Sur"
+    },
+    {
+      "values": "Barobo, Surigao del Sur",
+      "label": "Barobo, Surigao del Sur"
+    },
+    {
+      "values": "Bayabas, Surigao del Sur",
+      "label": "Bayabas, Surigao del Sur"
+    },
+    {
+      "values": "Cagwait, Surigao del Sur",
+      "label": "Cagwait, Surigao del Sur"
+    },
+    {
+      "values": "Cantilan, Surigao del Sur",
+      "label": "Cantilan, Surigao del Sur"
+    },
+    {
+      "values": "Carmen, Surigao del Sur",
+      "label": "Carmen, Surigao del Sur"
+    },
+    {
+      "values": "Carrascal, Surigao del Sur",
+      "label": "Carrascal, Surigao del Sur"
+    },
+    {
+      "values": "Cortes, Surigao del Sur",
+      "label": "Cortes, Surigao del Sur"
+    },
+    {
+      "values": "Hinatuan, Surigao del Sur",
+      "label": "Hinatuan, Surigao del Sur"
+    },
+    {
+      "values": "Lanuza, Surigao del Sur",
+      "label": "Lanuza, Surigao del Sur"
+    },
+    {
+      "values": "Lianga, Surigao del Sur",
+      "label": "Lianga, Surigao del Sur"
+    },
+    {
+      "values": "Lingig, Surigao del Sur",
+      "label": "Lingig, Surigao del Sur"
+    },
+    {
+      "values": "Madrid, Surigao del Sur",
+      "label": "Madrid, Surigao del Sur"
+    },
+    {
+      "values": "Marihatag, Surigao del Sur",
+      "label": "Marihatag, Surigao del Sur"
+    },
+    {
+      "values": "San Agustin, Surigao del Sur",
+      "label": "San Agustin, Surigao del Sur"
+    },
+    {
+      "values": "San Miguel, Surigao del Sur",
+      "label": "San Miguel, Surigao del Sur"
+    },
+    {
+      "values": "Tagbina, Surigao del Sur",
+      "label": "Tagbina, Surigao del Sur"
+    },
+    {
+      "values": "Tago, Surigao del Sur",
+      "label": "Tago, Surigao del Sur"
+    },
+    {
+      "values": "Tarlac City, Tarlac",
+      "label": "Tarlac City, Tarlac"
+    },
+    {
+      "values": "Anao, Tarlac",
+      "label": "Anao, Tarlac"
+    },
+    {
+      "values": "Bamban, Tarlac",
+      "label": "Bamban, Tarlac"
+    },
+    {
+      "values": "Camiling, Tarlac",
+      "label": "Camiling, Tarlac"
+    },
+    {
+      "values": "Capas, Tarlac",
+      "label": "Capas, Tarlac"
+    },
+    {
+      "values": "Concepcion, Tarlac",
+      "label": "Concepcion, Tarlac"
+    },
+    {
+      "values": "Gerona, Tarlac",
+      "label": "Gerona, Tarlac"
+    },
+    {
+      "values": "La Paz, Tarlac",
+      "label": "La Paz, Tarlac"
+    },
+    {
+      "values": "Mayantoc, Tarlac",
+      "label": "Mayantoc, Tarlac"
+    },
+    {
+      "values": "Moncada, Tarlac",
+      "label": "Moncada, Tarlac"
+    },
+    {
+      "values": "Paniqui, Tarlac",
+      "label": "Paniqui, Tarlac"
+    },
+    {
+      "values": "Pura, Tarlac",
+      "label": "Pura, Tarlac"
+    },
+    {
+      "values": "Ramos, Tarlac",
+      "label": "Ramos, Tarlac"
+    },
+    {
+      "values": "San Clemente, Tarlac",
+      "label": "San Clemente, Tarlac"
+    },
+    {
+      "values": "San Jose, Tarlac",
+      "label": "San Jose, Tarlac"
+    },
+    {
+      "values": "San Manuel, Tarlac",
+      "label": "San Manuel, Tarlac"
+    },
+    {
+      "values": "Santa Ignacia, Tarlac",
+      "label": "Santa Ignacia, Tarlac"
+    },
+    {
+      "values": "Victoria, Tarlac",
+      "label": "Victoria, Tarlac"
+    },
+    {
+      "values": "Bongao, Tawi-Tawi",
+      "label": "Bongao, Tawi-Tawi"
+    },
+    {
+      "values": "Languyan, Tawi-Tawi",
+      "label": "Languyan, Tawi-Tawi"
+    },
+    {
+      "values": "Mapun, Tawi-Tawi",
+      "label": "Mapun, Tawi-Tawi"
+    },
+    {
+      "values": "Panglima Sugala, Tawi-Tawi",
+      "label": "Panglima Sugala, Tawi-Tawi"
+    },
+    {
+      "values": "Sapa-Sapa, Tawi-Tawi",
+      "label": "Sapa-Sapa, Tawi-Tawi"
+    },
+    {
+      "values": "Sibutu, Tawi-Tawi",
+      "label": "Sibutu, Tawi-Tawi"
+    },
+    {
+      "values": "Simunul, Tawi-Tawi",
+      "label": "Simunul, Tawi-Tawi"
+    },
+    {
+      "values": "Sitangkai, Tawi-Tawi",
+      "label": "Sitangkai, Tawi-Tawi"
+    },
+    {
+      "values": "South Ubian, Tawi-Tawi",
+      "label": "South Ubian, Tawi-Tawi"
+    },
+    {
+      "values": "Tandubas, Tawi-Tawi",
+      "label": "Tandubas, Tawi-Tawi"
+    },
+    {
+      "values": "Turtle Islands, Tawi-Tawi",
+      "label": "Turtle Islands, Tawi-Tawi"
+    },
+    {
+      "values": "Olongapo City, Zambales",
+      "label": "Olongapo City, Zambales"
+    },
+    {
+      "values": "Botolan, Zambales",
+      "label": "Botolan, Zambales"
+    },
+    {
+      "values": "Cabangan, Zambales",
+      "label": "Cabangan, Zambales"
+    },
+    {
+      "values": "Candelaria, Zambales",
+      "label": "Candelaria, Zambales"
+    },
+    {
+      "values": "Castillejos, Zambales",
+      "label": "Castillejos, Zambales"
+    },
+    {
+      "values": "Iba, Zambales",
+      "label": "Iba, Zambales"
+    },
+    {
+      "values": "Masinloc, Zambales",
+      "label": "Masinloc, Zambales"
+    },
+    {
+      "values": "Palauig, Zambales",
+      "label": "Palauig, Zambales"
+    },
+    {
+      "values": "San Antonio, Zambales",
+      "label": "San Antonio, Zambales"
+    },
+    {
+      "values": "San Felipe, Zambales",
+      "label": "San Felipe, Zambales"
+    },
+    {
+      "values": "San Marcelino, Zambales",
+      "label": "San Marcelino, Zambales"
+    },
+    {
+      "values": "San Narciso, Zambales",
+      "label": "San Narciso, Zambales"
+    },
+    {
+      "values": "Santa Cruz, Zambales",
+      "label": "Santa Cruz, Zambales"
+    },
+    {
+      "values": "Subic, Zambales",
+      "label": "Subic, Zambales"
+    },
+    {
+      "values": "Dapitan City, Zamboanga del Norte",
+      "label": "Dapitan City, Zamboanga del Norte"
+    },
+    {
+      "values": "Dipolog City, Zamboanga del Norte",
+      "label": "Dipolog City, Zamboanga del Norte"
+    },
+    {
+      "values": "Bacungan, Zamboanga del Norte",
+      "label": "Bacungan, Zamboanga del Norte"
+    },
+    {
+      "values": "Baliguian, Zamboanga del Norte",
+      "label": "Baliguian, Zamboanga del Norte"
+    },
+    {
+      "values": "Godod, Zamboanga del Norte",
+      "label": "Godod, Zamboanga del Norte"
+    },
+    {
+      "values": "Gutalac, Zamboanga del Norte",
+      "label": "Gutalac, Zamboanga del Norte"
+    },
+    {
+      "values": "Jose Dalman, Zamboanga del Norte",
+      "label": "Jose Dalman, Zamboanga del Norte"
+    },
+    {
+      "values": "Kalawit, Zamboanga del Norte",
+      "label": "Kalawit, Zamboanga del Norte"
+    },
+    {
+      "values": "Katipunan, Zamboanga del Norte",
+      "label": "Katipunan, Zamboanga del Norte"
+    },
+    {
+      "values": "La Libertad, Zamboanga del Norte",
+      "label": "La Libertad, Zamboanga del Norte"
+    },
+    {
+      "values": "Labason, Zamboanga del Norte",
+      "label": "Labason, Zamboanga del Norte"
+    },
+    {
+      "values": "Liloy, Zamboanga del Norte",
+      "label": "Liloy, Zamboanga del Norte"
+    },
+    {
+      "values": "Manukan, Zamboanga del Norte",
+      "label": "Manukan, Zamboanga del Norte"
+    },
+    {
+      "values": "Mutia, Zamboanga del Norte",
+      "label": "Mutia, Zamboanga del Norte"
+    },
+    {
+      "values": "Piñan, Zamboanga del Norte",
+      "label": "Piñan, Zamboanga del Norte"
+    },
+    {
+      "values": "Polanco, Zamboanga del Norte",
+      "label": "Polanco, Zamboanga del Norte"
+    },
+    {
+      "values": "President Manuel A. Roxas, Zamboanga del Norte",
+      "label": "President Manuel A. Roxas, Zamboanga del Norte"
+    },
+    {
+      "values": "Rizal, Zamboanga del Norte",
+      "label": "Rizal, Zamboanga del Norte"
+    },
+    {
+      "values": "Salug, Zamboanga del Norte",
+      "label": "Salug, Zamboanga del Norte"
+    },
+    {
+      "values": "Sergio Osmeña Sr., Zamboanga del Norte",
+      "label": "Sergio Osmeña Sr., Zamboanga del Norte"
+    },
+    {
+      "values": "Siayan, Zamboanga del Norte",
+      "label": "Siayan, Zamboanga del Norte"
+    },
+    {
+      "values": "Sibuco, Zamboanga del Norte",
+      "label": "Sibuco, Zamboanga del Norte"
+    },
+    {
+      "values": "Sibutad, Zamboanga del Norte",
+      "label": "Sibutad, Zamboanga del Norte"
+    },
+    {
+      "values": "Sindangan, Zamboanga del Norte",
+      "label": "Sindangan, Zamboanga del Norte"
+    },
+    {
+      "values": "Siocon, Zamboanga del Norte",
+      "label": "Siocon, Zamboanga del Norte"
+    },
+    {
+      "values": "Sirawai, Zamboanga del Norte",
+      "label": "Sirawai, Zamboanga del Norte"
+    },
+    {
+      "values": "Tampilisan, Zamboanga del Norte",
+      "label": "Tampilisan, Zamboanga del Norte"
+    },
+    {
+      "values": "Pagadian City, Zamboanga del Sur",
+      "label": "Pagadian City, Zamboanga del Sur"
+    },
+    {
+      "values": "Zamboanga City, Zamboanga del Sur",
+      "label": "Zamboanga City, Zamboanga del Sur"
+    },
+    {
+      "values": "Aurora, Zamboanga del Sur",
+      "label": "Aurora, Zamboanga del Sur"
+    },
+    {
+      "values": "Bayog, Zamboanga del Sur",
+      "label": "Bayog, Zamboanga del Sur"
+    },
+    {
+      "values": "Dimataling, Zamboanga del Sur",
+      "label": "Dimataling, Zamboanga del Sur"
+    },
+    {
+      "values": "Dinas, Zamboanga del Sur",
+      "label": "Dinas, Zamboanga del Sur"
+    },
+    {
+      "values": "Dumalinao, Zamboanga del Sur",
+      "label": "Dumalinao, Zamboanga del Sur"
+    },
+    {
+      "values": "Dumingag, Zamboanga del Sur",
+      "label": "Dumingag, Zamboanga del Sur"
+    },
+    {
+      "values": "Guipos, Zamboanga del Sur",
+      "label": "Guipos, Zamboanga del Sur"
+    },
+    {
+      "values": "Josefina, Zamboanga del Sur",
+      "label": "Josefina, Zamboanga del Sur"
+    },
+    {
+      "values": "Kumalarang, Zamboanga del Sur",
+      "label": "Kumalarang, Zamboanga del Sur"
+    },
+    {
+      "values": "Labangan, Zamboanga del Sur",
+      "label": "Labangan, Zamboanga del Sur"
+    },
+    {
+      "values": "Lakewood, Zamboanga del Sur",
+      "label": "Lakewood, Zamboanga del Sur"
+    },
+    {
+      "values": "Lapuyan, Zamboanga del Sur",
+      "label": "Lapuyan, Zamboanga del Sur"
+    },
+    {
+      "values": "Mahayag, Zamboanga del Sur",
+      "label": "Mahayag, Zamboanga del Sur"
+    },
+    {
+      "values": "Margosatubig, Zamboanga del Sur",
+      "label": "Margosatubig, Zamboanga del Sur"
+    },
+    {
+      "values": "Midsalip, Zamboanga del Sur",
+      "label": "Midsalip, Zamboanga del Sur"
+    },
+    {
+      "values": "Molave, Zamboanga del Sur",
+      "label": "Molave, Zamboanga del Sur"
+    },
+    {
+      "values": "Pitogo, Zamboanga del Sur",
+      "label": "Pitogo, Zamboanga del Sur"
+    },
+    {
+      "values": "Ramon Magsaysay, Zamboanga del Sur",
+      "label": "Ramon Magsaysay, Zamboanga del Sur"
+    },
+    {
+      "values": "San Miguel, Zamboanga del Sur",
+      "label": "San Miguel, Zamboanga del Sur"
+    },
+    {
+      "values": "San Pablo, Zamboanga del Sur",
+      "label": "San Pablo, Zamboanga del Sur"
+    },
+    {
+      "values": "Sominot, Zamboanga del Sur",
+      "label": "Sominot, Zamboanga del Sur"
+    },
+    {
+      "values": "Tabina, Zamboanga del Sur",
+      "label": "Tabina, Zamboanga del Sur"
+    },
+    {
+      "values": "Tambulig, Zamboanga del Sur",
+      "label": "Tambulig, Zamboanga del Sur"
+    },
+    {
+      "values": "Tigbao, Zamboanga del Sur",
+      "label": "Tigbao, Zamboanga del Sur"
+    },
+    {
+      "values": "Tukuran, Zamboanga del Sur",
+      "label": "Tukuran, Zamboanga del Sur"
+    },
+    {
+      "values": "Vincenzo A. Sagun, Zamboanga del Sur",
+      "label": "Vincenzo A. Sagun, Zamboanga del Sur"
+    },
+    {
+      "values": "Alicia, Zamboanga Sibugay",
+      "label": "Alicia, Zamboanga Sibugay"
+    },
+    {
+      "values": "Buug, Zamboanga Sibugay",
+      "label": "Buug, Zamboanga Sibugay"
+    },
+    {
+      "values": "Diplahan, Zamboanga Sibugay",
+      "label": "Diplahan, Zamboanga Sibugay"
+    },
+    {
+      "values": "Imelda, Zamboanga Sibugay",
+      "label": "Imelda, Zamboanga Sibugay"
+    },
+    {
+      "values": "Ipil, Zamboanga Sibugay",
+      "label": "Ipil, Zamboanga Sibugay"
+    },
+    {
+      "values": "Kabasalan, Zamboanga Sibugay",
+      "label": "Kabasalan, Zamboanga Sibugay"
+    },
+    {
+      "values": "Mabuhay, Zamboanga Sibugay",
+      "label": "Mabuhay, Zamboanga Sibugay"
+    },
+    {
+      "values": "Malangas, Zamboanga Sibugay",
+      "label": "Malangas, Zamboanga Sibugay"
+    },
+    {
+      "values": "Naga, Zamboanga Sibugay",
+      "label": "Naga, Zamboanga Sibugay"
+    },
+    {
+      "values": "Olutanga, Zamboanga Sibugay",
+      "label": "Olutanga, Zamboanga Sibugay"
+    },
+    {
+      "values": "Payao, Zamboanga Sibugay",
+      "label": "Payao, Zamboanga Sibugay"
+    },
+    {
+      "values": "Roseller Lim, Zamboanga Sibugay",
+      "label": "Roseller Lim, Zamboanga Sibugay"
+    },
+    {
+      "values": "Siay, Zamboanga Sibugay",
+      "label": "Siay, Zamboanga Sibugay"
+    },
+    {
+      "values": "Talusan, Zamboanga Sibugay",
+      "label": "Talusan, Zamboanga Sibugay"
+    },
+    {
+      "values": "Titay, Zamboanga Sibugay",
+      "label": "Titay, Zamboanga Sibugay"
+    },
+    {
+      "values": "Tungawan, Zamboanga Sibugay",
+      "label": "Tungawan, Zamboanga Sibugay"
+    }
+   ]
